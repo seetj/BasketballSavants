@@ -15,7 +15,7 @@ import {
 } from "recharts";
 
 export default function Graph() {
-  const { players, loading, error } = useContext(DataContext);
+  const { loading, error } = useContext(DataContext);
   const [selectedPlayer, setSelectedPlayer] = useState(null);
 
   const fetchStats = async () => {
@@ -28,7 +28,6 @@ export default function Graph() {
       return;
     }
     const stats = await response.json();
-    console.log(stats);
     setPlayerStats(stats);
   };
 
@@ -47,9 +46,6 @@ export default function Graph() {
     setSelectedPlayer(player);
   };
 
-  const handlePlayerLine = (number) => {
-    setPlayerLine(number);
-  };
   const stats = playerStats?.map((item) => ({
     x: item.Date,
     y: item[`${selectedStat.value}`],
@@ -81,7 +77,7 @@ export default function Graph() {
         <h1>Select a Player</h1>
         <PlayerName onPlayerChange={handlePlayerChange} />
         <h1>Player Line</h1>
-        <PlayerLine onLineChange={handlePlayerLine} />
+        <PlayerLine playerLine={playerLine} setPlayerLine={setPlayerLine} />
       </div>
       <BarChart width={600} height={300} data={stats}>
         <CartesianGrid strokeDasharray="3 3" />
@@ -89,12 +85,7 @@ export default function Graph() {
         <YAxis domain={[0, "dataMax + 2"]} />
         <Tooltip />
         <Bar dataKey="y" fill="#8884d8" label={renderCustomBarLabel} />
-        <ReferenceLine
-          // y={average[0].avgPoints}
-          stroke="red"
-          strokeDasharray="3 3"
-          label="Average"
-        />
+        <ReferenceLine y={playerLine} stroke="red" strokeDasharray="3 3" />
       </BarChart>
     </div>
   );

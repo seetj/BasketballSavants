@@ -1,22 +1,25 @@
 import { useState } from "react";
 import Select from "react-select";
 
-export default function PlayerLine({
-  onLineChange,
-  playerLine,
-  setPlayerLine,
-}) {
+export default function PlayerLine({ playerLine, setPlayerLine }) {
   const handleIncrement = () => {
-    setPlayerLine((playerLine) => prevPlayerLine + 0.5);
+    setPlayerLine((prevPlayerLine) => prevPlayerLine + 0.5);
   };
 
   const handleDecrement = () => {
-    setPlayerLine((playerLine) => prevplayerLine - 0.5);
+    setPlayerLine((prevPlayerLine) => prevPlayerLine - 0.5);
   };
+
+  const options = [
+    {
+      value: playerLine,
+      label: `${playerLine}`,
+    },
+  ];
 
   return (
     <div>
-      <Select options={playerLine} value={playerLine} />
+      <Select options={options} value={options[0]} />
       <div
         style={{ marginTop: "10px", display: "flex", justifyContent: "center" }}
       >

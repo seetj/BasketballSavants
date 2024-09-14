@@ -4,10 +4,12 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service 
 import scrapeNames,csv
 
+#Setup env since this is multi OS project (Mac Os + Windows)
+chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
 options = Options()
 options.add_argument("--start-maximized")
 
-s = Service(executable_path='/usr/local/bin/chromedriver')
+s = Service(executable_path=chrome_driver_path)
 driver = webdriver.Chrome(options=options,service = s)
 for name in scrapeNames.converted_names:
     url = "https://www.basketball-reference.com/players/{player[0]}/{player}/gamelog/2024".format(player=name)

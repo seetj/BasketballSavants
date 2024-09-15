@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service 
 import scrapeNames,csv
+import os
 
 #Setup env since this is multi OS project (Mac Os + Windows)
 chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')

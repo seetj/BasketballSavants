@@ -36,10 +36,10 @@ nba_teams = {
 
 
 
-df = get_schedule(2023)
+df = get_schedule(2023, playoffs=False)
 # maps team names to acronyms 
 df['VISITOR_ACRONYM'] = df['VISITOR'].map(nba_teams)
 df['HOME_ACRONYM'] = df['HOME'].map(nba_teams)
 
-df.to_csv('nba_schedule_2023.csv', index=False)
+df.to_csv('nba_schedule_2023(1).csv', index=False)
 print("Schedule saved to 'nba_schedule_2023.csv'.")

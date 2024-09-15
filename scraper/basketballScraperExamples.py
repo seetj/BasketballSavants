@@ -26,8 +26,8 @@ from basketball_reference_scraper.players import get_stats, get_game_logs
 from basketball_reference_scraper.seasons import get_schedule, get_standings
 #method is broken
 
-s = get_schedule(2018, playoffs=False)
-print(s)
+# s = get_schedule(2018, playoffs=False)
+# print(s)
 
 # s = get_standings(date='2020-01-06')
 # print(s)

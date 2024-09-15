@@ -4,7 +4,7 @@ from basketball_reference_scraper.seasons import get_schedule
 nba_teams = {
     'Atlanta Hawks': 'ATL',
     'Boston Celtics': 'BOS',
-    'Brooklyn Nets': 'BKN',
+    'Brooklyn Nets': 'BRK',
     'Charlotte Hornets': 'CHA',
     'Chicago Bulls': 'CHI',
     'Cleveland Cavaliers': 'CLE',
@@ -25,7 +25,7 @@ nba_teams = {
     'Oklahoma City Thunder': 'OKC',
     'Orlando Magic': 'ORL',
     'Philadelphia 76ers': 'PHI',
-    'Phoenix Suns': 'PHX',
+    'Phoenix Suns': 'PHO',
     'Portland Trail Blazers': 'POR',
     'Sacramento Kings': 'SAC',
     'San Antonio Spurs': 'SAS',

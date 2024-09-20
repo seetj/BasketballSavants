@@ -28,7 +28,7 @@ def safe_float(value):
         return float(value)
     except (ValueError, TypeError):
         return 0.0  
-
+#FIX THE SETH CURRY GLITCH
 def extract_player_stats(player):
     return {
         "MP": player["MP"],

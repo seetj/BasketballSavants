@@ -4,13 +4,13 @@ from basketball_reference_scraper.box_scores import get_box_scores
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
-
+#THE GLITCH IS THE SEASON END YEAR FOR SCAPING NAMES WITH ACCENTS
 # load environment variable for config.env to setup Mongodb Client URI
-load_dotenv('BasketballSavants/server/config.env')
-atlas_uri = os.getenv('ATLAS_URI')
-client = MongoClient(atlas_uri)
-db = client['BoxScores_2023'] 
-collection = db['all_boxscores']
+# load_dotenv('BasketballSavants/server/config.env')
+# atlas_uri = os.getenv('ATLAS_URI')
+# client = MongoClient(atlas_uri)
+# db = client['BoxScores_2023'] 
+# collection = db['all_boxscores']
 
 df = pd.read_csv('BasketballSavants/scraper/nba_schedule_2023.csv')
 # print(df.head(11))
@@ -70,7 +70,7 @@ for index, row in df.iterrows():
     }
     
     # all_box_scores.append(game_box_score) uncomment to make json file
-    collection.insert_one(game_box_score)
+    # collection.insert_one(game_box_score)
         
     counter += 1
     
@@ -79,6 +79,7 @@ for index, row in df.iterrows():
     # time.sleep(5)
 
     print("Number of boxscores processed", counter)
+    print(box_score)
 
 
 # # with open('box_scores.json', 'w') as f:

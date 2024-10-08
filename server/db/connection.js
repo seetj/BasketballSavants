@@ -19,6 +19,6 @@ try {
   console.error(err);
 }
 
-let db = client.db("Players");
+const database = client.db("BoxScores_2023");
 
-export default db;
+export default database;

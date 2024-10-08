@@ -19,6 +19,7 @@ export default function Graph() {
   const [selectedPlayer, setSelectedPlayer] = useState(null);
 
   const fetchStats = async () => {
+    if (!selectedPlayer) return;
     const response = await fetch(
       `http://localhost:5050/stats/last10games/${selectedPlayer.value}/`
     );
@@ -28,7 +29,7 @@ export default function Graph() {
       return;
     }
     const stats = await response.json();
-    setPlayerStats(stats);
+    setPlayerStats(stats[0].games_played);
   };
 
   useEffect(() => {
@@ -47,9 +48,9 @@ export default function Graph() {
   };
 
   const stats = playerStats?.map((item) => ({
-    x: item.Date,
-    y: item[`${selectedStat.value}`],
-    Opp: item.Opp,
+    x: item.date,
+    y: item.stats[`${selectedStat.value}`],
+    Opp: item.opponent,
   }));
 
   const renderCustomBarLabel = ({ x, y, width, index }) => {

@@ -9,8 +9,8 @@ export default function PlayerName({ onPlayerChange, selectedPlayer }) {
   if (error) return <div>Error: {error.message}</div>;
 
   const playerNames = players.map((item) => ({
-    value: item.name,
-    label: item.name,
+    value: item._id,
+    label: item._id,
   }));
   return (
     <div>

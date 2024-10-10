@@ -91,6 +91,34 @@ router.get("/:player/averages", async (req, res) => {
   ];
 
   const aggCursor = await playersCollection.aggregate(careerAverage).toArray();
+  res.send(aggCursor).status(200);
+});
+
+router.get("/:player/2022-2023", async (req, res) => {
+  const gamesPlayed = [
+    {
+      $match: {
+        name: `${req.params.player}`,
+      },
+    },
+    {
+      $unwind: "$games_played",
+    },
+    {
+      $match: {
+        "games_played.date": {
+          $gte: "2022-10-18",
+          $lte: "2023-06-12",
+        },
+      },
+    },
+    {
+      $replaceRoot: {
+        newRoot: "$games_played",
+      },
+    },
+  ];
+  const aggCursor = await playersCollection.aggregate(gamesPlayed).toArray();
   console.log(aggCursor);
   res.send(aggCursor).status(200);
 });
@@ -115,37 +143,6 @@ router.get("/:player/averages", async (req, res) => {
 //   ];
 
 //   const aggCursor = await stats.aggregate(averagePoints).toArray();
-//   res.send(aggCursor).status(200);
-// });
-
-// router.get("/avglast10games/:player/", async (req, res) => {
-//   let stats = await databases.playersDb.collection(`${req.params.player}`);
-
-//   const averagePoints10 = [
-//     {
-//       $sort: {
-//         Date: -1,
-//       },
-//     },
-//     {
-//       $limit: 10,
-//     },
-//     {
-//       $group: {
-//         _id: null,
-//         avgPoints: {
-//           $avg: "$PTS",
-//         },
-//       },
-//     },
-//     {
-//       $project: {
-//         _id: 0,
-//         avgPoints: 1,
-//       },
-//     },
-//   ];
-//   const aggCursor = await stats.aggregate(averagePoints10).toArray();
 //   res.send(aggCursor).status(200);
 // });
 

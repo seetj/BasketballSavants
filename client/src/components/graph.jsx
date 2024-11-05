@@ -68,12 +68,9 @@ export default function Graph() {
   };
 
   return (
-    <div className="graphContainer" class="px-20 py-2 items-center">
-      <div
-        className="dropdownContainer"
-        class="mx-auto flex justify-between space-x-4"
-      >
-        <div className="statContainer" class="w-1/3">
+    <div className="graphContainer px-20 py-2 items-center">
+      <div className="dropdownContainer mx-auto flex justify-between space-x-4">
+        <div className="statContainer w-1/3">
           <h1>Select a Stat:</h1>
           <Select
             options={optionsStat}
@@ -81,44 +78,70 @@ export default function Graph() {
             onChange={(e) => setSelectedStat(e)}
           />
         </div>
-        <div className="playerContainer" class="w-1/3">
+        <div className="playerContainer w-1/3">
           <h1>Select a Player:</h1>
           <PlayerName onPlayerChange={handlePlayerChange} />
         </div>
-        <div classame="lineContainer" class="w-1/3">
+        <div className="lineContainer w-1/3">
           <h1>Player Line:</h1>
           <PlayerLine playerLine={playerLine} setPlayerLine={setPlayerLine} />
         </div>
       </div>
       {stats ? (
-        <div className="statOdds" class="flex flex-col py-2 ">
-          <text class="pt-2">
+        <div className="statOdds flex flex-col py-2 ">
+          <text className="pt-2">
             <b>
               {" "}
               O/U {playerLine} {selectedStat.label}:{" "}
             </b>
             Last 3: {ratioCounter(3, playerLine, stats)} | L5:{" "}
-            {ratioCounter(5, playerLine, stats)}| L10:{" "}
+            {ratioCounter(5, playerLine, stats)} | L10:{" "}
             {ratioCounter(10, playerLine, stats)}
           </text>
-          <text class="pt-2">
+          <text className="pt-2">
             <b>Implied Odds: </b>
             Last 3: 1.50 | L5: $2.50 | L10: $3.33
           </text>
         </div>
       ) : (
         <div>
-          <p class="flex flex-col py-2 "> Select a player to show odds</p>
+          <p className="flex flex-col py-2">Select a player to show odds</p>
         </div>
       )}
 
-      <div className="graphContainer" class="justify-center py-10">
-        <BarChart width={1080} height={300} data={stats}>
-          <CartesianGrid strokeDasharray="3 3" />
-          <XAxis dataKey="x" />
-          <YAxis domain={[0, "dataMax + 2"]} />
+      <div className="graphContainer justify-center py-10" style={{ backgroundColor: "#f0f0f0" }}>
+        <BarChart
+          width={1080}
+          height={450}
+          data={stats}
+          margin={{ top: 20, right: 30, left: 20, bottom: 60 }} // Increased bottom margin
+        >
+          <XAxis
+            dataKey="x"
+            strokeWidth={4}
+            tick={{
+              angle: -45, // Diagonal tilt
+              dx: -10, // Horizontal offset
+              dy: 20, // Vertical offset
+              fontSize: 14,
+              fontFamily: "sans-serif",
+              fill: "#333",
+            }}
+          />
+          <YAxis 
+          strokeWidth={4}
+          tick={{
+          fontSize: 16,
+          fontFamily: 'sans-serif',
+          fill: '#333',
+        }} />
           <Tooltip />
-          <Bar dataKey="y" fill="#8884d8" label={renderCustomBarLabel} />
+          <Bar
+            dataKey="y"
+            fill="#303F9F"
+            radius={[20, 20, 0, 0]}
+            label={renderCustomBarLabel}
+          />
           <ReferenceLine y={playerLine} stroke="red" strokeDasharray="3 3" />
         </BarChart>
       </div>

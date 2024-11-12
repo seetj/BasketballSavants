@@ -1,11 +1,10 @@
 from basketball_reference_scraper.seasons import get_schedule
 
-
 nba_teams = {
     'Atlanta Hawks': 'ATL',
     'Boston Celtics': 'BOS',
     'Brooklyn Nets': 'BRK',
-    'Charlotte Hornets': 'CHA',
+    'Charlotte Hornets': 'CHO',
     'Chicago Bulls': 'CHI',
     'Cleveland Cavaliers': 'CLE',
     'Dallas Mavericks': 'DAL',
@@ -35,11 +34,11 @@ nba_teams = {
 }
 
 
-
-df = get_schedule(2023, playoffs=False)
+df = get_schedule(2024, playoffs=False)
+df = df.drop(columns=['DURATION'])
 # maps team names to acronyms 
 df['VISITOR_ACRONYM'] = df['VISITOR'].map(nba_teams)
 df['HOME_ACRONYM'] = df['HOME'].map(nba_teams)
 
-df.to_csv('nba_schedule_2023(1).csv', index=False)
-print("Schedule saved to 'nba_schedule_2023.csv'.")
+df.to_csv('nba_schedule_2024.csv', index=False)
+print("Schedule saved to 'nba_schedule_2024.csv'.")

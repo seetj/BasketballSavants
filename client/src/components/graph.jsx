@@ -73,6 +73,10 @@ export default function Graph() {
         className="dropdownContainer"
         class="mx-auto flex justify-between space-x-4"
       >
+        <div className="playerContainer" class="w-1/3">
+          <h1>Select a Player:</h1>
+          <PlayerName onPlayerChange={handlePlayerChange} />
+        </div>
         <div className="statContainer" class="w-1/3">
           <h1>Select a Stat:</h1>
           <Select
@@ -80,10 +84,6 @@ export default function Graph() {
             value={selectedStat}
             onChange={(e) => setSelectedStat(e)}
           />
-        </div>
-        <div className="playerContainer" class="w-1/3">
-          <h1>Select a Player:</h1>
-          <PlayerName onPlayerChange={handlePlayerChange} />
         </div>
         <div classame="lineContainer" class="w-1/3">
           <h1>Player Line:</h1>

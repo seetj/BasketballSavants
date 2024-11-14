@@ -5,7 +5,13 @@ import boxscores from "./routes/boxscores.js";
 const PORT = process.env.PORT || 5050;
 const app = express();
 
-app.use(cors());
+app.use(
+  cors({
+    origin: ["https://basketball-savants-api.vercel.app/"],
+    methods: ["GET"],
+    credentials: true,
+  })
+);
 app.use(express.json());
 app.use("/stats", stats);
 app.use("/boxscores", boxscores);

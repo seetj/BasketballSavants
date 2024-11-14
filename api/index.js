@@ -8,7 +8,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["*"],
+    origin: ["https://basketball-savants.vercel.app"],
     methods: ["GET"],
     credentials: true,
   })

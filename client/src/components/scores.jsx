@@ -16,7 +16,7 @@ export default function Scoreboard() {
   const fetchResults = async () => {
     if (!selectedDate) return;
     const response = await fetch(
-      `http://localhost:5050/boxscores/${selectedDate.value}`
+      `https://basketball-savants-api.vercel.app/boxscores/${selectedDate.value}`
     );
     if (!response.ok) {
       const message = `An error occurred: ${response.statusText}`;

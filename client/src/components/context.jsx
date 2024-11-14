@@ -9,7 +9,7 @@ export const DataProvider = ({ children }) => {
   const fetchPlayerNames = async () => {
     try {
       const response = await fetch(
-        "http://basketball-savants-api.vercel.app/stats/players/"
+        "https://basketball-savants-api.vercel.app/stats/players/"
       );
       if (!response.ok) {
         const message = `An error occurred: ${response.statusText}`;

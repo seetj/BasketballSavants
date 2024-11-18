@@ -22,7 +22,7 @@ export default function Graph() {
   const fetchlast10 = async () => {
     if (!selectedPlayer) return;
     const response = await fetch(
-      `https://basketball-savants-api.vercel.app/stats/last10games/${selectedPlayer.value}/`
+      `http://localhost:5050/stats/last10games/${selectedPlayer.value}/`
     );
     if (!response.ok) {
       const message = `An error occurred: ${response.statusText}`;
@@ -67,17 +67,69 @@ export default function Graph() {
     );
   };
 
-  return (
-    <div className="graphContainer" class="px-20 py-2 items-center">
-      <div
-        className="dropdownContainer"
-        class="mx-auto flex justify-between space-x-4"
-      >
-        <div className="playerContainer" class="w-1/3">
-          <h1>Select a Player:</h1>
-          <PlayerName onPlayerChange={handlePlayerChange} />
+  const customTooltip = ({ active, payload, label }) => {
+    if (active && payload && payload.length) {
+      const data = payload[0]; // Access the data being hovered over
+      return (
+        <div
+          style={{
+            backgroundColor: "white",
+            border: "1px solid #ccc",
+            padding: "10px",
+            borderRadius: "20px",
+          }}
+        >
+          <p>{`Game Played: ${label}`}</p>
+          <p>
+            {`${selectedStat.label}: ${data.value}`} vs {data.payload.Opp}
+          </p>{" "}
+          {/* acryonmon is a placeholder for now*/}
         </div>
-        <div className="statContainer" class="w-1/3">
+      );
+    }
+    return null;
+  };
+  const CustomBar = (props) => {
+    const { x, y, width, height, payload, index } = props;
+
+    // Skip rendering if the value is 0
+    if (payload.y === 0) {
+      return null;
+    }
+
+    const color = payload.y >= playerLine ? "green" : "red"; // Dynamic color logic
+    const cornerRadius = 20; // Radius for the top corners
+
+    return (
+      <>
+        {/* Custom SVG Path for Rounded Top Corners */}
+        <path
+          d={`
+            M${x},${y + cornerRadius}
+            a${cornerRadius},${cornerRadius} 0 0 1 ${cornerRadius},-${cornerRadius}
+            h${width - 2 * cornerRadius}
+            a${cornerRadius},${cornerRadius} 0 0 1 ${cornerRadius},${cornerRadius}
+            v${height - cornerRadius}
+            h-${width}
+            z
+          `}
+          fill={color}
+        />
+        {/* Render the custom label */}
+        {renderCustomBarLabel({ x, y, width, index })}
+      </>
+    );
+  };
+
+  const maxValue =
+    stats && stats.length > 0 ? Math.max(...stats.map((item) => item.y)) : 10;
+  const ceiling = Math.ceil(maxValue / 10) * 10;
+  const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
+
+  return (
+    <div className="graphContainer px-20 py-2 items-center">
+      <div className="dropdownContainer mx-auto flex justify-between space-x-4">
+        <div className="statContainer w-1/3">
           <h1>Select a Stat:</h1>
           <Select
             options={optionsStat}
@@ -85,7 +137,11 @@ export default function Graph() {
             onChange={(e) => setSelectedStat(e)}
           />
         </div>
-        <div classame="lineContainer" class="w-1/3">
+        <div className="playerContainer w-1/3">
+          <h1>Select a Player:</h1>
+          <PlayerName onPlayerChange={handlePlayerChange} />
+        </div>
+        <div className="lineContainer w-1/3">
           <h1>Player Line:</h1>
           <PlayerLine playerLine={playerLine} setPlayerLine={setPlayerLine} />
         </div>
@@ -112,12 +168,15 @@ export default function Graph() {
         </div>
       )}
 
-      <div className="graphContainer justify-center py-10" style={{ backgroundColor: "#f0f0f0" }}>
+      <div
+        className="graphContainer justify-center py-10"
+        style={{ backgroundColor: "#f0f0f0" }}
+      >
         <BarChart
           width={1080}
           height={450}
           data={stats}
-          margin={{ top: 20, right: 30, left: 20, bottom: 60 }} // Increased bottom margin
+          margin={{ top: 20, right: 30, left: 20, bottom: 30 }} // Increased bottom margin
         >
           <XAxis
             dataKey="x"
@@ -131,19 +190,20 @@ export default function Graph() {
               fill: "#333",
             }}
           />
-          <YAxis 
-          strokeWidth={4}
-          tick={{
-          fontSize: 16,
-          fontFamily: 'sans-serif',
-          fill: '#333',
-        }} />
-          <Tooltip />
+          <YAxis
+            strokeWidth={4}
+            tick={{
+              fontSize: 16,
+              fontFamily: "sans-serif",
+              fill: "#333",
+            }}
+            ticks={ticks} // Dynamically generated ticks
+            domain={[0, ceiling]}
+          />
+          <Tooltip content={customTooltip} />
           <Bar
-            dataKey="y"
-            fill="#303F9F"
-            radius={[20, 20, 0, 0]}
-            label={renderCustomBarLabel}
+          dataKey="y"
+          shape={<CustomBar />} // Use the CustomBar component
           />
           <ReferenceLine y={playerLine} stroke="red" strokeDasharray="3 3" />
         </BarChart>

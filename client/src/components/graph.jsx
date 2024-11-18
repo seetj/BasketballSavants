@@ -22,7 +22,7 @@ export default function Graph() {
   const fetchlast10 = async () => {
     if (!selectedPlayer) return;
     const response = await fetch(
-      `http://localhost:5050/stats/last10games/${selectedPlayer.value}/`
+      `https://basketball-savants-api.vercel.app/stats/last10games/${selectedPlayer.value}/`
     );
     if (!response.ok) {
       const message = `An error occurred: ${response.statusText}`;
@@ -68,9 +68,16 @@ export default function Graph() {
   };
 
   return (
-    <div className="graphContainer px-20 py-2 items-center">
-      <div className="dropdownContainer mx-auto flex justify-between space-x-4">
-        <div className="statContainer w-1/3">
+    <div className="graphContainer" class="px-20 py-2 items-center">
+      <div
+        className="dropdownContainer"
+        class="mx-auto flex justify-between space-x-4"
+      >
+        <div className="playerContainer" class="w-1/3">
+          <h1>Select a Player:</h1>
+          <PlayerName onPlayerChange={handlePlayerChange} />
+        </div>
+        <div className="statContainer" class="w-1/3">
           <h1>Select a Stat:</h1>
           <Select
             options={optionsStat}
@@ -78,11 +85,7 @@ export default function Graph() {
             onChange={(e) => setSelectedStat(e)}
           />
         </div>
-        <div className="playerContainer w-1/3">
-          <h1>Select a Player:</h1>
-          <PlayerName onPlayerChange={handlePlayerChange} />
-        </div>
-        <div className="lineContainer w-1/3">
+        <div classame="lineContainer" class="w-1/3">
           <h1>Player Line:</h1>
           <PlayerLine playerLine={playerLine} setPlayerLine={setPlayerLine} />
         </div>

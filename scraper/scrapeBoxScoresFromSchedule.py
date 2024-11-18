@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # THE GLITCH IS THE SEASON END YEAR FOR SCAPING NAMES WITH ACCENTS
 # load environment variable for config.env to setup Mongodb Client URI
-load_dotenv("BasketballSavants/server/config.env")
+load_dotenv("Basketball Savants/server/config.env")
 atlas_uri = os.getenv("ATLAS_URI")
 client = MongoClient(atlas_uri)
 db = client["BoxScores_2023"]
@@ -91,3 +91,6 @@ for index, row in df.iterrows():
 
 # # print("Box scores saved to 'box_scores.json'.")
 print(f"Box scores saved to Mongodb collection ")
+
+
+    

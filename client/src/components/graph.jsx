@@ -1,4 +1,4 @@
-import { useState, useContext, useEffect} from "react";
+import { useState, useContext, useEffect } from "react";
 import { DataContext } from "./context";
 import Select from "react-select";
 import PlayerName from "./playerDropdown";
@@ -31,7 +31,6 @@ export default function Graph() {
     }
     const stats = await response.json();
     setPlayerStats(stats[0].games_played);
-
   };
 
   useEffect(() => {
@@ -53,7 +52,6 @@ export default function Graph() {
     x: item.date,
     y: item.stats[`${selectedStat.value}`],
     Opp: item.opponent,
-    
   }));
 
   const renderCustomBarLabel = ({ x, y, width, index }) => {
@@ -68,7 +66,6 @@ export default function Graph() {
       >{`vs  ${opponent}`}</text>
     );
   };
-  
 
   const customTooltip = ({ active, payload, label }) => {
     if (active && payload && payload.length) {
@@ -83,7 +80,10 @@ export default function Graph() {
           }}
         >
           <p>{`Game Played: ${label}`}</p>
-          <p>{`${selectedStat.label}: ${data.value}`} vs {data.payload.Opp}</p> {/* acryonmon is a placeholder for now*/}
+          <p>
+            {`${selectedStat.label}: ${data.value}`} vs {data.payload.Opp}
+          </p>{" "}
+          {/* acryonmon is a placeholder for now*/}
         </div>
       );
     }
@@ -91,15 +91,15 @@ export default function Graph() {
   };
   const CustomBar = (props) => {
     const { x, y, width, height, payload, index } = props;
-  
+
     // Skip rendering if the value is 0
     if (payload.y === 0) {
       return null;
     }
-  
+
     const color = payload.y >= playerLine ? "green" : "red"; // Dynamic color logic
     const cornerRadius = 20; // Radius for the top corners
-  
+
     return (
       <>
         {/* Custom SVG Path for Rounded Top Corners */}
@@ -120,18 +120,13 @@ export default function Graph() {
       </>
     );
   };
-  
-  
-  
-  
-  
-const maxValue = stats && stats.length > 0 ? Math.max(...stats.map((item) => item.y)) : 10;
-const ceiling = Math.ceil(maxValue / 10) * 10;
-const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
 
+  const maxValue =
+    stats && stats.length > 0 ? Math.max(...stats.map((item) => item.y)) : 10;
+  const ceiling = Math.ceil(maxValue / 10) * 10;
+  const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
 
   return (
-    
     <div className="graphContainer px-20 py-2 items-center">
       <div className="dropdownContainer mx-auto flex justify-between space-x-4">
         <div className="statContainer w-1/3">
@@ -173,13 +168,15 @@ const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
         </div>
       )}
 
-      <div className="graphContainer justify-center py-10" style={{ backgroundColor: "#f0f0f0" }}>
+      <div
+        className="graphContainer justify-center py-10"
+        style={{ backgroundColor: "#f0f0f0" }}
+      >
         <BarChart
           width={1080}
           height={450}
           data={stats}
           margin={{ top: 20, right: 30, left: 20, bottom: 30 }} // Increased bottom margin
-          
         >
           <XAxis
             dataKey="x"
@@ -193,22 +190,21 @@ const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
               fill: "#333",
             }}
           />
-          <YAxis 
-          strokeWidth={4}
-          tick={{
-          fontSize: 16,
-          fontFamily: 'sans-serif',
-          fill: '#333',
-        }}
-        ticks={ticks} // Dynamically generated ticks
-        domain={[0, ceiling]}
-        />
-          <Tooltip content={customTooltip}/>
+          <YAxis
+            strokeWidth={4}
+            tick={{
+              fontSize: 16,
+              fontFamily: "sans-serif",
+              fill: "#333",
+            }}
+            ticks={ticks} // Dynamically generated ticks
+            domain={[0, ceiling]}
+          />
+          <Tooltip content={customTooltip} />
           <Bar
           dataKey="y"
           shape={<CustomBar />} // Use the CustomBar component
           />
-          
           <ReferenceLine y={playerLine} stroke="red" strokeDasharray="3 3" />
         </BarChart>
       </div>

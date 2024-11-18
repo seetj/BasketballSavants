@@ -8,7 +8,7 @@ const App = () => {
       <Scoreboard />
       <Navbar />
       <div class="flex content-center justify-center py-6">
-        <Graph />
+      <Graph />
       </div>
     </DataProvider>
   );

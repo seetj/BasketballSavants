@@ -128,8 +128,7 @@ export default function Graph() {
 const maxValue = stats && stats.length > 0 ? Math.max(...stats.map((item) => item.y)) : 10;
 const ceiling = Math.ceil(maxValue / 10) * 10;
 const ticks = Array.from({ length: ceiling / 10 + 1 }, (_, i) => i * 10);
-const aboveLine = stats.filter((item) => item.y >= playerLine);
-const belowLine = stats.filter((item) => item.y < playerLine);
+
 
   return (
     
@@ -206,9 +205,9 @@ const belowLine = stats.filter((item) => item.y < playerLine);
         />
           <Tooltip content={customTooltip}/>
           <Bar
-    dataKey="y"
-    shape={<CustomBar />} // Use the CustomBar component
-  />
+          dataKey="y"
+          shape={<CustomBar />} // Use the CustomBar component
+          />
           
           <ReferenceLine y={playerLine} stroke="red" strokeDasharray="3 3" />
         </BarChart>

@@ -1,0 +1,1201 @@
+DATE,VISITOR,VISITOR_PTS,HOME,HOME_PTS,VISITOR_ACRONYM,HOME_ACRONYM
+2024-10-22,New York Knicks,109.0,Boston Celtics,132.0,NYK,BOS
+2024-10-22,Minnesota Timberwolves,103.0,Los Angeles Lakers,110.0,MIN,LAL
+2024-10-23,Indiana Pacers,115.0,Detroit Pistons,109.0,IND,DET
+2024-10-23,Brooklyn Nets,116.0,Atlanta Hawks,120.0,BRK,ATL
+2024-10-23,Orlando Magic,116.0,Miami Heat,97.0,ORL,MIA
+2024-10-23,Milwaukee Bucks,124.0,Philadelphia 76ers,109.0,MIL,PHI
+2024-10-23,Cleveland Cavaliers,136.0,Toronto Raptors,106.0,CLE,TOR
+2024-10-23,Charlotte Hornets,110.0,Houston Rockets,105.0,CHO,HOU
+2024-10-23,Chicago Bulls,111.0,New Orleans Pelicans,123.0,CHI,NOP
+2024-10-23,Memphis Grizzlies,126.0,Utah Jazz,124.0,MEM,UTA
+2024-10-23,Phoenix Suns,116.0,Los Angeles Clippers,113.0,PHO,LAC
+2024-10-23,Golden State Warriors,140.0,Portland Trail Blazers,104.0,GSW,POR
+2024-10-24,Boston Celtics,122.0,Washington Wizards,102.0,BOS,WAS
+2024-10-24,San Antonio Spurs,109.0,Dallas Mavericks,120.0,SAS,DAL
+2024-10-24,Minnesota Timberwolves,117.0,Sacramento Kings,115.0,MIN,SAC
+2024-10-24,Oklahoma City Thunder,102.0,Denver Nuggets,87.0,OKC,DEN
+2024-10-25,Brooklyn Nets,101.0,Orlando Magic,116.0,BRK,ORL
+2024-10-25,Philadelphia 76ers,107.0,Toronto Raptors,115.0,PHI,TOR
+2024-10-25,Charlotte Hornets,120.0,Atlanta Hawks,125.0,CHO,ATL
+2024-10-25,Detroit Pistons,101.0,Cleveland Cavaliers,113.0,DET,CLE
+2024-10-25,Indiana Pacers,98.0,New York Knicks,123.0,IND,NYK
+2024-10-25,Memphis Grizzlies,108.0,Houston Rockets,128.0,MEM,HOU
+2024-10-25,Chicago Bulls,133.0,Milwaukee Bucks,122.0,CHI,MIL
+2024-10-25,Golden State Warriors,127.0,Utah Jazz,86.0,GSW,UTA
+2024-10-25,Phoenix Suns,116.0,Los Angeles Lakers,123.0,PHO,LAL
+2024-10-25,New Orleans Pelicans,105.0,Portland Trail Blazers,103.0,NOP,POR
+2024-10-26,Los Angeles Clippers,109.0,Denver Nuggets,104.0,LAC,DEN
+2024-10-26,Cleveland Cavaliers,135.0,Washington Wizards,116.0,CLE,WAS
+2024-10-26,Boston Celtics,124.0,Detroit Pistons,118.0,BOS,DET
+2024-10-26,Miami Heat,114.0,Charlotte Hornets,106.0,MIA,CHO
+2024-10-26,Orlando Magic,111.0,Memphis Grizzlies,124.0,ORL,MEM
+2024-10-26,Toronto Raptors,101.0,Minnesota Timberwolves,112.0,TOR,MIN
+2024-10-26,Oklahoma City Thunder,114.0,Chicago Bulls,95.0,OKC,CHI
+2024-10-26,Houston Rockets,106.0,San Antonio Spurs,109.0,HOU,SAS
+2024-10-26,Dallas Mavericks,102.0,Phoenix Suns,114.0,DAL,PHO
+2024-10-26,Sacramento Kings,127.0,Los Angeles Lakers,131.0,SAC,LAL
+2024-10-27,Philadelphia 76ers,118.0,Indiana Pacers,114.0,PHI,IND
+2024-10-27,New Orleans Pelicans,103.0,Portland Trail Blazers,125.0,NOP,POR
+2024-10-27,Milwaukee Bucks,102.0,Brooklyn Nets,115.0,MIL,BRK
+2024-10-27,Atlanta Hawks,104.0,Oklahoma City Thunder,128.0,ATL,OKC
+2024-10-27,Los Angeles Clippers,112.0,Golden State Warriors,104.0,LAC,GSW
+2024-10-28,Indiana Pacers,115.0,Orlando Magic,119.0,IND,ORL
+2024-10-28,Washington Wizards,121.0,Atlanta Hawks,119.0,WAS,ATL
+2024-10-28,Milwaukee Bucks,108.0,Boston Celtics,119.0,MIL,BOS
+2024-10-28,Denver Nuggets,127.0,Toronto Raptors,125.0,DEN,TOR
+2024-10-28,Detroit Pistons,98.0,Miami Heat,106.0,DET,MIA
+2024-10-28,Cleveland Cavaliers,110.0,New York Knicks,104.0,CLE,NYK
+2024-10-28,Houston Rockets,106.0,San Antonio Spurs,101.0,HOU,SAS
+2024-10-28,Chicago Bulls,126.0,Memphis Grizzlies,123.0,CHI,MEM
+2024-10-28,Utah Jazz,102.0,Dallas Mavericks,110.0,UTA,DAL
+2024-10-28,Portland Trail Blazers,98.0,Sacramento Kings,111.0,POR,SAC
+2024-10-28,Los Angeles Lakers,105.0,Phoenix Suns,109.0,LAL,PHO
+2024-10-29,Denver Nuggets,144.0,Brooklyn Nets,139.0,DEN,BRK
+2024-10-29,Dallas Mavericks,120.0,Minnesota Timberwolves,114.0,DAL,MIN
+2024-10-29,Sacramento Kings,113.0,Utah Jazz,96.0,SAC,UTA
+2024-10-29,New Orleans Pelicans,106.0,Golden State Warriors,124.0,NOP,GSW
+2024-10-30,Detroit Pistons,105.0,Philadelphia 76ers,95.0,DET,PHI
+2024-10-30,Atlanta Hawks,120.0,Washington Wizards,133.0,ATL,WAS
+2024-10-30,Boston Celtics,132.0,Indiana Pacers,135.0,BOS,IND
+2024-10-30,Los Angeles Lakers,110.0,Cleveland Cavaliers,134.0,LAL,CLE
+2024-10-30,Toronto Raptors,133.0,Charlotte Hornets,138.0,TOR,CHO
+2024-10-30,New York Knicks,116.0,Miami Heat,107.0,NYK,MIA
+2024-10-30,Orlando Magic,99.0,Chicago Bulls,102.0,ORL,CHI
+2024-10-30,Brooklyn Nets,119.0,Memphis Grizzlies,106.0,BRK,MEM
+2024-10-30,San Antonio Spurs,93.0,Oklahoma City Thunder,105.0,SAS,OKC
+2024-10-30,New Orleans Pelicans,89.0,Golden State Warriors,104.0,NOP,GSW
+2024-10-30,Portland Trail Blazers,106.0,Los Angeles Clippers,105.0,POR,LAC
+2024-10-31,Milwaukee Bucks,99.0,Memphis Grizzlies,122.0,MIL,MEM
+2024-10-31,Houston Rockets,108.0,Dallas Mavericks,102.0,HOU,DAL
+2024-10-31,San Antonio Spurs,106.0,Utah Jazz,88.0,SAS,UTA
+2024-10-31,Phoenix Suns,125.0,Los Angeles Clippers,119.0,PHO,LAC
+2024-11-01,Boston Celtics,124.0,Charlotte Hornets,109.0,BOS,CHO
+2024-11-01,Orlando Magic,109.0,Cleveland Cavaliers,120.0,ORL,CLE
+2024-11-01,New York Knicks,128.0,Detroit Pistons,98.0,NYK,DET
+2024-11-01,Sacramento Kings,123.0,Atlanta Hawks,115.0,SAC,ATL
+2024-11-01,Chicago Bulls,112.0,Brooklyn Nets,120.0,CHI,BRK
+2024-11-01,Los Angeles Lakers,131.0,Toronto Raptors,125.0,LAL,TOR
+2024-11-01,Indiana Pacers,118.0,New Orleans Pelicans,125.0,IND,NOP
+2024-11-01,Denver Nuggets,116.0,Minnesota Timberwolves,119.0,DEN,MIN
+2024-11-01,Oklahoma City Thunder,137.0,Portland Trail Blazers,114.0,OKC,POR
+2024-11-02,Boston Celtics,113.0,Charlotte Hornets,103.0,BOS,CHO
+2024-11-02,Memphis Grizzlies,124.0,Philadelphia 76ers,107.0,MEM,PHI
+2024-11-02,Sacramento Kings,128.0,Toronto Raptors,131.0,SAC,TOR
+2024-11-02,Golden State Warriors,127.0,Houston Rockets,121.0,GSW,HOU
+2024-11-02,Cleveland Cavaliers,114.0,Milwaukee Bucks,113.0,CLE,MIL
+2024-11-02,Minnesota Timberwolves,103.0,San Antonio Spurs,113.0,MIN,SAS
+2024-11-02,Miami Heat,118.0,Washington Wizards,98.0,MIA,WAS
+2024-11-02,Utah Jazz,103.0,Denver Nuggets,129.0,UTA,DEN
+2024-11-02,Portland Trail Blazers,97.0,Phoenix Suns,103.0,POR,PHO
+2024-11-02,Oklahoma City Thunder,105.0,Los Angeles Clippers,92.0,OKC,LAC
+2024-11-03,Detroit Pistons,106.0,Brooklyn Nets,92.0,DET,BRK
+2024-11-03,Atlanta Hawks,126.0,New Orleans Pelicans,111.0,ATL,NOP
+2024-11-03,Orlando Magic,85.0,Dallas Mavericks,108.0,ORL,DAL
+2024-11-04,Milwaukee Bucks,114.0,Cleveland Cavaliers,116.0,MIL,CLE
+2024-11-04,Golden State Warriors,125.0,Washington Wizards,112.0,GSW,WAS
+2024-11-04,Los Angeles Lakers,103.0,Detroit Pistons,115.0,LAL,DET
+2024-11-04,Boston Celtics,123.0,Atlanta Hawks,93.0,BOS,ATL
+2024-11-04,Memphis Grizzlies,104.0,Brooklyn Nets,106.0,MEM,BRK
+2024-11-04,Sacramento Kings,111.0,Miami Heat,110.0,SAC,MIA
+2024-11-04,Utah Jazz,135.0,Chicago Bulls,126.0,UTA,CHI
+2024-11-04,New York Knicks,97.0,Houston Rockets,109.0,NYK,HOU
+2024-11-04,Charlotte Hornets,93.0,Minnesota Timberwolves,114.0,CHO,MIN
+2024-11-04,Orlando Magic,86.0,Oklahoma City Thunder,102.0,ORL,OKC
+2024-11-04,Portland Trail Blazers,118.0,New Orleans Pelicans,100.0,POR,NOP
+2024-11-04,Indiana Pacers,134.0,Dallas Mavericks,127.0,IND,DAL
+2024-11-04,Toronto Raptors,119.0,Denver Nuggets,121.0,TOR,DEN
+2024-11-04,Philadelphia 76ers,116.0,Phoenix Suns,118.0,PHI,PHO
+2024-11-04,San Antonio Spurs,104.0,Los Angeles Clippers,113.0,SAS,LAC
+2024-11-06,Detroit Pistons,107.0,Charlotte Hornets,108.0,DET,CHO
+2024-11-06,Orlando Magic,111.0,Indiana Pacers,118.0,ORL,IND
+2024-11-06,New York Knicks,116.0,Atlanta Hawks,121.0,NYK,ATL
+2024-11-06,Golden State Warriors,118.0,Boston Celtics,112.0,GSW,BOS
+2024-11-06,San Antonio Spurs,100.0,Houston Rockets,127.0,SAS,HOU
+2024-11-06,Los Angeles Lakers,114.0,Memphis Grizzlies,131.0,LAL,MEM
+2024-11-06,Cleveland Cavaliers,131.0,New Orleans Pelicans,122.0,CLE,NOP
+2024-11-06,Chicago Bulls,99.0,Dallas Mavericks,119.0,CHI,DAL
+2024-11-06,Oklahoma City Thunder,122.0,Denver Nuggets,124.0,OKC,DEN
+2024-11-06,Miami Heat,112.0,Phoenix Suns,115.0,MIA,PHO
+2024-11-06,Philadelphia 76ers,98.0,Los Angeles Clippers,110.0,PHI,LAC
+2024-11-06,Toronto Raptors,107.0,Sacramento Kings,122.0,TOR,SAC
+2024-11-07,Minnesota Timberwolves,135.0,Chicago Bulls,119.0,MIN,CHI
+2024-11-07,Utah Jazz,100.0,Milwaukee Bucks,123.0,UTA,MIL
+2024-11-07,Portland Trail Blazers,105.0,San Antonio Spurs,118.0,POR,SAS
+2024-11-08,Indiana Pacers,83.0,Charlotte Hornets,103.0,IND,CHO
+2024-11-08,Atlanta Hawks,121.0,Detroit Pistons,122.0,ATL,DET
+2024-11-08,New Orleans Pelicans,88.0,Orlando Magic,115.0,NOP,ORL
+2024-11-08,Brooklyn Nets,104.0,Boston Celtics,108.0,BRK,BOS
+2024-11-08,Golden State Warriors,117.0,Cleveland Cavaliers,136.0,GSW,CLE
+2024-11-08,Phoenix Suns,114.0,Dallas Mavericks,113.0,PHO,DAL
+2024-11-08,Milwaukee Bucks,94.0,New York Knicks,116.0,MIL,NYK
+2024-11-08,Washington Wizards,104.0,Memphis Grizzlies,128.0,WAS,MEM
+2024-11-08,Houston Rockets,107.0,Oklahoma City Thunder,126.0,HOU,OKC
+2024-11-08,Miami Heat,122.0,Denver Nuggets,135.0,MIA,DEN
+2024-11-08,Portland Trail Blazers,102.0,Minnesota Timberwolves,127.0,POR,MIN
+2024-11-08,Philadelphia 76ers,106.0,Los Angeles Lakers,116.0,PHI,LAL
+2024-11-08,Los Angeles Clippers,107.0,Sacramento Kings,98.0,LAC,SAC
+2024-11-09,Utah Jazz,111.0,San Antonio Spurs,110.0,UTA,SAS
+2024-11-09,Chicago Bulls,125.0,Atlanta Hawks,113.0,CHI,ATL
+2024-11-09,Brooklyn Nets,100.0,Cleveland Cavaliers,105.0,BRK,CLE
+2024-11-09,Toronto Raptors,103.0,Los Angeles Clippers,105.0,TOR,LAC
+2024-11-10,Houston Rockets,101.0,Detroit Pistons,99.0,HOU,DET
+2024-11-10,Boston Celtics,113.0,Milwaukee Bucks,107.0,BOS,MIL
+2024-11-10,New York Knicks,121.0,Indiana Pacers,132.0,NYK,IND
+2024-11-10,Washington Wizards,94.0,Orlando Magic,121.0,WAS,ORL
+2024-11-10,Miami Heat,95.0,Minnesota Timberwolves,94.0,MIA,MIN
+2024-11-10,Golden State Warriors,127.0,Oklahoma City Thunder,116.0,GSW,OKC
+2024-11-10,Charlotte Hornets,105.0,Philadelphia 76ers,107.0,CHO,PHI
+2024-11-10,Dallas Mavericks,120.0,Denver Nuggets,122.0,DAL,DEN
+2024-11-10,Sacramento Kings,127.0,Phoenix Suns,118.0,SAC,PHO
+2024-11-10,Memphis Grizzlies,134.0,Portland Trail Blazers,89.0,MEM,POR
+2024-11-10,Toronto Raptors,103.0,Los Angeles Lakers,123.0,TOR,LAL
+2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0,CLE,CHI
+2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0,WAS,HOU
+2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0,BRK,NOP
+2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0,LAC,OKC
+2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0,SAC,SAS
+2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0,ATL,BOS
+2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0,MIA,DET
+2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0,CHO,ORL
+2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0,NYK,PHI
+2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0,TOR,MIL
+2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0,PHO,UTA
+2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0,DAL,GSW
+2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0,MIN,POR
+2024-11-13,Indiana Pacers,90.0,Orlando Magic,94.0,IND,ORL
+2024-11-13,Boston Celtics,139.0,Brooklyn Nets,114.0,BOS,BRK
+2024-11-13,Chicago Bulls,124.0,New York Knicks,123.0,CHI,NYK
+2024-11-13,New Orleans Pelicans,88.0,Oklahoma City Thunder,106.0,NOP,OKC
+2024-11-13,Cleveland Cavaliers,114.0,Philadelphia 76ers,106.0,CLE,PHI
+2024-11-13,Los Angeles Clippers,103.0,Houston Rockets,111.0,LAC,HOU
+2024-11-13,Detroit Pistons,120.0,Milwaukee Bucks,127.0,DET,MIL
+2024-11-13,Washington Wizards,130.0,San Antonio Spurs,139.0,WAS,SAS
+2024-11-13,Memphis Grizzlies,123.0,Los Angeles Lakers,128.0,MEM,LAL
+2024-11-13,Minnesota Timberwolves,98.0,Portland Trail Blazers,106.0,MIN,POR
+2024-11-13,Phoenix Suns,104.0,Sacramento Kings,127.0,PHO,SAC
+2024-11-14,Dallas Mavericks,113.0,Utah Jazz,115.0,DAL,UTA
+2024-11-15,Miami Heat,,Indiana Pacers,,MIA,IND
+2024-11-15,Philadelphia 76ers,,Orlando Magic,,PHI,ORL
+2024-11-15,Detroit Pistons,,Toronto Raptors,,DET,TOR
+2024-11-15,Washington Wizards,,Atlanta Hawks,,WAS,ATL
+2024-11-15,Chicago Bulls,,Cleveland Cavaliers,,CHI,CLE
+2024-11-15,Brooklyn Nets,,New York Knicks,,BRK,NYK
+2024-11-15,Los Angeles Lakers,,San Antonio Spurs,,LAL,SAS
+2024-11-15,Los Angeles Clippers,,Houston Rockets,,LAC,HOU
+2024-11-15,Denver Nuggets,,New Orleans Pelicans,,DEN,NOP
+2024-11-15,Phoenix Suns,,Oklahoma City Thunder,,PHO,OKC
+2024-11-15,Memphis Grizzlies,,Golden State Warriors,,MEM,GSW
+2024-11-15,Minnesota Timberwolves,,Sacramento Kings,,MIN,SAC
+2024-11-16,Milwaukee Bucks,,Charlotte Hornets,,MIL,CHO
+2024-11-16,Toronto Raptors,,Boston Celtics,,TOR,BOS
+2024-11-16,Los Angeles Lakers,,New Orleans Pelicans,,LAL,NOP
+2024-11-16,San Antonio Spurs,,Dallas Mavericks,,SAS,DAL
+2024-11-16,Utah Jazz,,Sacramento Kings,,UTA,SAC
+2024-11-17,Phoenix Suns,,Minnesota Timberwolves,,PHO,MIN
+2024-11-17,Miami Heat,,Indiana Pacers,,MIA,IND
+2024-11-17,Charlotte Hornets,,Cleveland Cavaliers,,CHO,CLE
+2024-11-17,Denver Nuggets,,Memphis Grizzlies,,DEN,MEM
+2024-11-17,Atlanta Hawks,,Portland Trail Blazers,,ATL,POR
+2024-11-17,Detroit Pistons,,Washington Wizards,,DET,WAS
+2024-11-17,Houston Rockets,,Chicago Bulls,,HOU,CHI
+2024-11-17,Brooklyn Nets,,New York Knicks,,BRK,NYK
+2024-11-17,Dallas Mavericks,,Oklahoma City Thunder,,DAL,OKC
+2024-11-17,Utah Jazz,,Los Angeles Clippers,,UTA,LAC
+2024-11-18,Chicago Bulls,,Detroit Pistons,,CHI,DET
+2024-11-18,Philadelphia 76ers,,Miami Heat,,PHI,MIA
+2024-11-18,Washington Wizards,,New York Knicks,,WAS,NYK
+2024-11-18,Indiana Pacers,,Toronto Raptors,,IND,TOR
+2024-11-18,Houston Rockets,,Milwaukee Bucks,,HOU,MIL
+2024-11-18,Orlando Magic,,Phoenix Suns,,ORL,PHO
+2024-11-18,Atlanta Hawks,,Sacramento Kings,,ATL,SAC
+2024-11-18,Golden State Warriors,,Los Angeles Clippers,,GSW,LAC
+2024-11-19,Cleveland Cavaliers,,Boston Celtics,,CLE,BOS
+2024-11-19,Charlotte Hornets,,Brooklyn Nets,,CHO,BRK
+2024-11-19,Denver Nuggets,,Memphis Grizzlies,,DEN,MEM
+2024-11-19,New Orleans Pelicans,,Dallas Mavericks,,NOP,DAL
+2024-11-19,Oklahoma City Thunder,,San Antonio Spurs,,OKC,SAS
+2024-11-19,Utah Jazz,,Los Angeles Lakers,,UTA,LAL
+2024-11-20,New Orleans Pelicans,,Cleveland Cavaliers,,NOP,CLE
+2024-11-20,Chicago Bulls,,Milwaukee Bucks,,CHI,MIL
+2024-11-20,Indiana Pacers,,Houston Rockets,,IND,HOU
+2024-11-20,Philadelphia 76ers,,Memphis Grizzlies,,PHI,MEM
+2024-11-20,Portland Trail Blazers,,Oklahoma City Thunder,,POR,OKC
+2024-11-20,Atlanta Hawks,,Golden State Warriors,,ATL,GSW
+2024-11-20,New York Knicks,,Phoenix Suns,,NYK,PHO
+2024-11-20,Orlando Magic,,Los Angeles Clippers,,ORL,LAC
+2024-11-21,Detroit Pistons,,Charlotte Hornets,,DET,CHO
+2024-11-21,Minnesota Timberwolves,,Toronto Raptors,,MIN,TOR
+2024-11-21,Utah Jazz,,San Antonio Spurs,,UTA,SAS
+2024-11-21,Orlando Magic,,Los Angeles Lakers,,ORL,LAL
+2024-11-22,Brooklyn Nets,,Philadelphia 76ers,,BRK,PHI
+2024-11-22,Boston Celtics,,Washington Wizards,,BOS,WAS
+2024-11-22,Golden State Warriors,,New Orleans Pelicans,,GSW,NOP
+2024-11-22,Atlanta Hawks,,Chicago Bulls,,ATL,CHI
+2024-11-22,Portland Trail Blazers,,Houston Rockets,,POR,HOU
+2024-11-22,Indiana Pacers,,Milwaukee Bucks,,IND,MIL
+2024-11-22,Dallas Mavericks,,Denver Nuggets,,DAL,DEN
+2024-11-22,Sacramento Kings,,Los Angeles Clippers,,SAC,LAC
+2024-11-23,New York Knicks,,Utah Jazz,,NYK,UTA
+2024-11-23,Detroit Pistons,,Orlando Magic,,DET,ORL
+2024-11-23,Memphis Grizzlies,,Chicago Bulls,,MEM,CHI
+2024-11-23,Portland Trail Blazers,,Houston Rockets,,POR,HOU
+2024-11-23,Charlotte Hornets,,Milwaukee Bucks,,CHO,MIL
+2024-11-23,Golden State Warriors,,San Antonio Spurs,,GSW,SAS
+2024-11-23,Denver Nuggets,,Los Angeles Lakers,,DEN,LAL
+2024-11-24,Minnesota Timberwolves,,Boston Celtics,,MIN,BOS
+2024-11-24,Washington Wizards,,Indiana Pacers,,WAS,IND
+2024-11-24,Dallas Mavericks,,Miami Heat,,DAL,MIA
+2024-11-24,Los Angeles Clippers,,Philadelphia 76ers,,LAC,PHI
+2024-11-24,Toronto Raptors,,Cleveland Cavaliers,,TOR,CLE
+2024-11-24,Brooklyn Nets,,Sacramento Kings,,BRK,SAC
+2024-11-25,Orlando Magic,,Charlotte Hornets,,ORL,CHO
+2024-11-25,Toronto Raptors,,Detroit Pistons,,TOR,DET
+2024-11-25,New Orleans Pelicans,,Indiana Pacers,,NOP,IND
+2024-11-25,Dallas Mavericks,,Atlanta Hawks,,DAL,ATL
+2024-11-25,Los Angeles Clippers,,Boston Celtics,,LAC,BOS
+2024-11-25,Portland Trail Blazers,,Memphis Grizzlies,,POR,MEM
+2024-11-25,New York Knicks,,Denver Nuggets,,NYK,DEN
+2024-11-25,Brooklyn Nets,,Golden State Warriors,,BRK,GSW
+2024-11-25,Oklahoma City Thunder,,Sacramento Kings,,OKC,SAC
+2024-11-26,Chicago Bulls,,Washington Wizards,,CHI,WAS
+2024-11-26,Milwaukee Bucks,,Miami Heat,,MIL,MIA
+2024-11-26,Houston Rockets,,Minnesota Timberwolves,,HOU,MIN
+2024-11-26,San Antonio Spurs,,Utah Jazz,,SAS,UTA
+2024-11-26,Los Angeles Lakers,,Phoenix Suns,,LAL,PHO
+2024-11-27,Miami Heat,,Charlotte Hornets,,MIA,CHO
+2024-11-27,Atlanta Hawks,,Cleveland Cavaliers,,ATL,CLE
+2024-11-27,Portland Trail Blazers,,Indiana Pacers,,POR,IND
+2024-11-27,Chicago Bulls,,Orlando Magic,,CHI,ORL
+2024-11-27,Houston Rockets,,Philadelphia 76ers,,HOU,PHI
+2024-11-27,Los Angeles Clippers,,Washington Wizards,,LAC,WAS
+2024-11-27,New York Knicks,,Dallas Mavericks,,NYK,DAL
+2024-11-27,Detroit Pistons,,Memphis Grizzlies,,DET,MEM
+2024-11-27,Sacramento Kings,,Minnesota Timberwolves,,SAC,MIN
+2024-11-27,Toronto Raptors,,New Orleans Pelicans,,TOR,NOP
+2024-11-27,Los Angeles Lakers,,San Antonio Spurs,,LAL,SAS
+2024-11-27,Brooklyn Nets,,Phoenix Suns,,BRK,PHO
+2024-11-27,Denver Nuggets,,Utah Jazz,,DEN,UTA
+2024-11-27,Oklahoma City Thunder,,Golden State Warriors,,OKC,GSW
+2024-11-29,New York Knicks,,Charlotte Hornets,,NYK,CHO
+2024-11-29,Cleveland Cavaliers,,Atlanta Hawks,,CLE,ATL
+2024-11-29,New Orleans Pelicans,,Memphis Grizzlies,,NOP,MEM
+2024-11-29,Orlando Magic,,Brooklyn Nets,,ORL,BRK
+2024-11-29,Los Angeles Clippers,,Minnesota Timberwolves,,LAC,MIN
+2024-11-29,Boston Celtics,,Chicago Bulls,,BOS,CHI
+2024-11-29,Detroit Pistons,,Indiana Pacers,,DET,IND
+2024-11-29,Toronto Raptors,,Miami Heat,,TOR,MIA
+2024-11-29,Oklahoma City Thunder,,Los Angeles Lakers,,OKC,LAL
+2024-11-29,Sacramento Kings,,Portland Trail Blazers,,SAC,POR
+2024-11-30,Atlanta Hawks,,Charlotte Hornets,,ATL,CHO
+2024-11-30,Philadelphia 76ers,,Detroit Pistons,,PHI,DET
+2024-11-30,Washington Wizards,,Milwaukee Bucks,,WAS,MIL
+2024-11-30,Golden State Warriors,,Phoenix Suns,,GSW,PHO
+2024-11-30,Dallas Mavericks,,Utah Jazz,,DAL,UTA
+2024-12-01,Orlando Magic,,Brooklyn Nets,,ORL,BRK
+2024-12-01,Indiana Pacers,,Memphis Grizzlies,,IND,MEM
+2024-12-01,Boston Celtics,,Cleveland Cavaliers,,BOS,CLE
+2024-12-01,New Orleans Pelicans,,New York Knicks,,NOP,NYK
+2024-12-01,Miami Heat,,Toronto Raptors,,MIA,TOR
+2024-12-01,Oklahoma City Thunder,,Houston Rockets,,OKC,HOU
+2024-12-01,Los Angeles Lakers,,Utah Jazz,,LAL,UTA
+2024-12-01,Dallas Mavericks,,Portland Trail Blazers,,DAL,POR
+2024-12-01,San Antonio Spurs,,Sacramento Kings,,SAS,SAC
+2024-12-01,Denver Nuggets,,Los Angeles Clippers,,DEN,LAC
+2024-12-02,New Orleans Pelicans,,Atlanta Hawks,,NOP,ATL
+2024-12-02,Miami Heat,,Boston Celtics,,MIA,BOS
+2024-12-02,Brooklyn Nets,,Chicago Bulls,,BRK,CHI
+2024-12-02,Los Angeles Lakers,,Minnesota Timberwolves,,LAL,MIN
+2024-12-03,Philadelphia 76ers,,Charlotte Hornets,,PHI,CHO
+2024-12-03,Washington Wizards,,Cleveland Cavaliers,,WAS,CLE
+2024-12-03,Milwaukee Bucks,,Detroit Pistons,,MIL,DET
+2024-12-03,Memphis Grizzlies,,Dallas Mavericks,,MEM,DAL
+2024-12-03,Orlando Magic,,New York Knicks,,ORL,NYK
+2024-12-03,Indiana Pacers,,Toronto Raptors,,IND,TOR
+2024-12-03,Utah Jazz,,Oklahoma City Thunder,,UTA,OKC
+2024-12-03,San Antonio Spurs,,Phoenix Suns,,SAS,PHO
+2024-12-03,Golden State Warriors,,Denver Nuggets,,GSW,DEN
+2024-12-03,Houston Rockets,,Sacramento Kings,,HOU,SAC
+2024-12-03,Portland Trail Blazers,,Los Angeles Clippers,,POR,LAC
+2024-12-04,Detroit Pistons,,Boston Celtics,,DET,BOS
+2024-12-04,Indiana Pacers,,Brooklyn Nets,,IND,BRK
+2024-12-04,Los Angeles Lakers,,Miami Heat,,LAL,MIA
+2024-12-04,Orlando Magic,,Philadelphia 76ers,,ORL,PHI
+2024-12-04,Atlanta Hawks,,Milwaukee Bucks,,ATL,MIL
+2024-12-04,Minnesota Timberwolves,,Los Angeles Clippers,,MIN,LAC
+2024-12-05,Denver Nuggets,,Cleveland Cavaliers,,DEN,CLE
+2024-12-05,Dallas Mavericks,,Washington Wizards,,DAL,WAS
+2024-12-05,Charlotte Hornets,,New York Knicks,,CHO,NYK
+2024-12-05,Oklahoma City Thunder,,Toronto Raptors,,OKC,TOR
+2024-12-05,Sacramento Kings,,Memphis Grizzlies,,SAC,MEM
+2024-12-05,Phoenix Suns,,New Orleans Pelicans,,PHO,NOP
+2024-12-05,Chicago Bulls,,San Antonio Spurs,,CHI,SAS
+2024-12-05,Houston Rockets,,Golden State Warriors,,HOU,GSW
+2024-12-06,Orlando Magic,,Philadelphia 76ers,,ORL,PHI
+2024-12-06,Los Angeles Lakers,,Atlanta Hawks,,LAL,ATL
+2024-12-06,Milwaukee Bucks,,Boston Celtics,,MIL,BOS
+2024-12-06,Indiana Pacers,,Chicago Bulls,,IND,CHI
+2024-12-06,Sacramento Kings,,San Antonio Spurs,,SAC,SAS
+2024-12-06,Minnesota Timberwolves,,Golden State Warriors,,MIN,GSW
+2024-12-06,Utah Jazz,,Portland Trail Blazers,,UTA,POR
+2024-12-07,Cleveland Cavaliers,,Charlotte Hornets,,CLE,CHO
+2024-12-07,Oklahoma City Thunder,,New Orleans Pelicans,,OKC,NOP
+2024-12-07,Denver Nuggets,,Washington Wizards,,DEN,WAS
+2024-12-07,Detroit Pistons,,New York Knicks,,DET,NYK
+2024-12-07,Dallas Mavericks,,Toronto Raptors,,DAL,TOR
+2024-12-07,Memphis Grizzlies,,Boston Celtics,,MEM,BOS
+2024-12-07,Phoenix Suns,,Miami Heat,,PHO,MIA
+2024-12-08,Philadelphia 76ers,,Chicago Bulls,,PHI,CHI
+2024-12-08,Milwaukee Bucks,,Brooklyn Nets,,MIL,BRK
+2024-12-08,Charlotte Hornets,,Indiana Pacers,,CHO,IND
+2024-12-08,Denver Nuggets,,Atlanta Hawks,,DEN,ATL
+2024-12-08,Cleveland Cavaliers,,Miami Heat,,CLE,MIA
+2024-12-08,Phoenix Suns,,Orlando Magic,,PHO,ORL
+2024-12-08,New Orleans Pelicans,,San Antonio Spurs,,NOP,SAS
+2024-12-08,Memphis Grizzlies,,Washington Wizards,,MEM,WAS
+2024-12-08,Minnesota Timberwolves,,Golden State Warriors,,MIN,GSW
+2024-12-08,Houston Rockets,,Los Angeles Clippers,,HOU,LAC
+2024-12-08,Utah Jazz,,Sacramento Kings,,UTA,SAC
+2024-12-08,Portland Trail Blazers,,Los Angeles Lakers,,POR,LAL
+2024-12-09,New York Knicks,,Toronto Raptors,,NYK,TOR
+2024-12-19,Utah Jazz,,Detroit Pistons,,UTA,DET
+2024-12-19,Oklahoma City Thunder,,Orlando Magic,,OKC,ORL
+2024-12-19,Charlotte Hornets,,Washington Wizards,,CHO,WAS
+2024-12-19,Chicago Bulls,,Boston Celtics,,CHI,BOS
+2024-12-19,Brooklyn Nets,,Toronto Raptors,,BRK,TOR
+2024-12-19,New Orleans Pelicans,,Houston Rockets,,NOP,HOU
+2024-12-19,Golden State Warriors,,Memphis Grizzlies,,GSW,MEM
+2024-12-19,Atlanta Hawks,,San Antonio Spurs,,ATL,SAS
+2024-12-19,Los Angeles Clippers,,Dallas Mavericks,,LAC,DAL
+2024-12-19,Indiana Pacers,,Phoenix Suns,,IND,PHO
+2024-12-19,New York Knicks,,Minnesota Timberwolves,,NYK,MIN
+2024-12-19,Denver Nuggets,,Portland Trail Blazers,,DEN,POR
+2024-12-19,Los Angeles Lakers,,Sacramento Kings,,LAL,SAC
+2024-12-20,Charlotte Hornets,,Philadelphia 76ers,,CHO,PHI
+2024-12-20,Milwaukee Bucks,,Cleveland Cavaliers,,MIL,CLE
+2024-12-20,Oklahoma City Thunder,,Miami Heat,,OKC,MIA
+2024-12-21,Los Angeles Lakers,,Sacramento Kings,,LAL,SAC
+2024-12-21,Miami Heat,,Orlando Magic,,MIA,ORL
+2024-12-21,Memphis Grizzlies,,Atlanta Hawks,,MEM,ATL
+2024-12-21,Utah Jazz,,Brooklyn Nets,,UTA,BRK
+2024-12-21,Boston Celtics,,Chicago Bulls,,BOS,CHI
+2024-12-21,Philadelphia 76ers,,Cleveland Cavaliers,,PHI,CLE
+2024-12-21,Washington Wizards,,Milwaukee Bucks,,WAS,MIL
+2024-12-21,Golden State Warriors,,Minnesota Timberwolves,,GSW,MIN
+2024-12-21,New York Knicks,,New Orleans Pelicans,,NYK,NOP
+2024-12-21,Los Angeles Clippers,,Dallas Mavericks,,LAC,DAL
+2024-12-21,Portland Trail Blazers,,San Antonio Spurs,,POR,SAS
+2024-12-21,Detroit Pistons,,Phoenix Suns,,DET,PHO
+2024-12-22,Indiana Pacers,,Sacramento Kings,,IND,SAC
+2024-12-22,Houston Rockets,,Toronto Raptors,,HOU,TOR
+2024-12-22,Denver Nuggets,,New Orleans Pelicans,,DEN,NOP
+2024-12-23,Houston Rockets,,Charlotte Hornets,,HOU,CHO
+2024-12-23,Utah Jazz,,Cleveland Cavaliers,,UTA,CLE
+2024-12-23,Boston Celtics,,Orlando Magic,,BOS,ORL
+2024-12-23,San Antonio Spurs,,Philadelphia 76ers,,SAS,PHI
+2024-12-23,Minnesota Timberwolves,,Atlanta Hawks,,MIN,ATL
+2024-12-23,Brooklyn Nets,,Miami Heat,,BRK,MIA
+2024-12-23,Toronto Raptors,,New York Knicks,,TOR,NYK
+2024-12-23,Milwaukee Bucks,,Chicago Bulls,,MIL,CHI
+2024-12-23,Los Angeles Clippers,,Memphis Grizzlies,,LAC,MEM
+2024-12-23,Washington Wizards,,Oklahoma City Thunder,,WAS,OKC
+2024-12-23,Portland Trail Blazers,,Dallas Mavericks,,POR,DAL
+2024-12-23,Phoenix Suns,,Denver Nuggets,,PHO,DEN
+2024-12-23,Indiana Pacers,,Golden State Warriors,,IND,GSW
+2024-12-23,Detroit Pistons,,Los Angeles Lakers,,DET,LAL
+2024-12-25,San Antonio Spurs,,New York Knicks,,SAS,NYK
+2024-12-25,Minnesota Timberwolves,,Dallas Mavericks,,MIN,DAL
+2024-12-25,Philadelphia 76ers,,Boston Celtics,,PHI,BOS
+2024-12-25,Los Angeles Lakers,,Golden State Warriors,,LAL,GSW
+2024-12-25,Denver Nuggets,,Phoenix Suns,,DEN,PHO
+2024-12-26,Oklahoma City Thunder,,Indiana Pacers,,OKC,IND
+2024-12-26,Miami Heat,,Orlando Magic,,MIA,ORL
+2024-12-26,Charlotte Hornets,,Washington Wizards,,CHO,WAS
+2024-12-26,Chicago Bulls,,Atlanta Hawks,,CHI,ATL
+2024-12-26,Toronto Raptors,,Memphis Grizzlies,,TOR,MEM
+2024-12-26,Brooklyn Nets,,Milwaukee Bucks,,BRK,MIL
+2024-12-26,Houston Rockets,,New Orleans Pelicans,,HOU,NOP
+2024-12-26,Utah Jazz,,Portland Trail Blazers,,UTA,POR
+2024-12-26,Detroit Pistons,,Sacramento Kings,,DET,SAC
+2024-12-27,New York Knicks,,Orlando Magic,,NYK,ORL
+2024-12-27,Indiana Pacers,,Boston Celtics,,IND,BOS
+2024-12-27,San Antonio Spurs,,Brooklyn Nets,,SAS,BRK
+2024-12-27,Minnesota Timberwolves,,Houston Rockets,,MIN,HOU
+2024-12-27,Memphis Grizzlies,,New Orleans Pelicans,,MEM,NOP
+2024-12-27,Cleveland Cavaliers,,Denver Nuggets,,CLE,DEN
+2024-12-27,Dallas Mavericks,,Phoenix Suns,,DAL,PHO
+2024-12-27,Golden State Warriors,,Los Angeles Clippers,,GSW,LAC
+2024-12-28,Miami Heat,,Atlanta Hawks,,MIA,ATL
+2024-12-28,Oklahoma City Thunder,,Charlotte Hornets,,OKC,CHO
+2024-12-28,New York Knicks,,Washington Wizards,,NYK,WAS
+2024-12-28,Milwaukee Bucks,,Chicago Bulls,,MIL,CHI
+2024-12-28,Phoenix Suns,,Golden State Warriors,,PHO,GSW
+2024-12-28,Detroit Pistons,,Denver Nuggets,,DET,DEN
+2024-12-28,Philadelphia 76ers,,Utah Jazz,,PHI,UTA
+2024-12-28,Dallas Mavericks,,Portland Trail Blazers,,DAL,POR
+2024-12-28,Sacramento Kings,,Los Angeles Lakers,,SAC,LAL
+2024-12-29,Brooklyn Nets,,Orlando Magic,,BRK,ORL
+2024-12-29,Indiana Pacers,,Boston Celtics,,IND,BOS
+2024-12-29,Atlanta Hawks,,Toronto Raptors,,ATL,TOR
+2024-12-29,Miami Heat,,Houston Rockets,,MIA,HOU
+2024-12-29,Memphis Grizzlies,,Oklahoma City Thunder,,MEM,OKC
+2024-12-29,San Antonio Spurs,,Minnesota Timberwolves,,SAS,MIN
+2024-12-30,Chicago Bulls,,Charlotte Hornets,,CHI,CHO
+2024-12-30,New York Knicks,,Washington Wizards,,NYK,WAS
+2024-12-30,Los Angeles Clippers,,New Orleans Pelicans,,LAC,NOP
+2024-12-30,Denver Nuggets,,Utah Jazz,,DEN,UTA
+2024-12-30,Cleveland Cavaliers,,Golden State Warriors,,CLE,GSW
+2024-12-30,Philadelphia 76ers,,Portland Trail Blazers,,PHI,POR
+2024-12-30,Dallas Mavericks,,Sacramento Kings,,DAL,SAC
+2024-12-31,Toronto Raptors,,Boston Celtics,,TOR,BOS
+2024-12-31,Milwaukee Bucks,,Indiana Pacers,,MIL,IND
+2024-12-31,Los Angeles Clippers,,San Antonio Spurs,,LAC,SAS
+2024-12-31,Minnesota Timberwolves,,Oklahoma City Thunder,,MIN,OKC
+2024-12-31,Cleveland Cavaliers,,Los Angeles Lakers,,CLE,LAL
+2024-12-31,Memphis Grizzlies,,Phoenix Suns,,MEM,PHO
+2025-01-01,Orlando Magic,,Detroit Pistons,,ORL,DET
+2025-01-01,Chicago Bulls,,Washington Wizards,,CHI,WAS
+2025-01-01,New Orleans Pelicans,,Miami Heat,,NOP,MIA
+2025-01-01,Utah Jazz,,New York Knicks,,UTA,NYK
+2025-01-01,Brooklyn Nets,,Toronto Raptors,,BRK,TOR
+2025-01-01,Dallas Mavericks,,Houston Rockets,,DAL,HOU
+2025-01-01,Atlanta Hawks,,Denver Nuggets,,ATL,DEN
+2025-01-01,Philadelphia 76ers,,Sacramento Kings,,PHI,SAC
+2025-01-02,Indiana Pacers,,Miami Heat,,IND,MIA
+2025-01-02,Boston Celtics,,Minnesota Timberwolves,,BOS,MIN
+2025-01-02,Brooklyn Nets,,Milwaukee Bucks,,BRK,MIL
+2025-01-02,Los Angeles Clippers,,Oklahoma City Thunder,,LAC,OKC
+2025-01-02,Philadelphia 76ers,,Golden State Warriors,,PHI,GSW
+2025-01-02,Portland Trail Blazers,,Los Angeles Lakers,,POR,LAL
+2025-01-03,Charlotte Hornets,,Detroit Pistons,,CHO,DET
+2025-01-03,Orlando Magic,,Toronto Raptors,,ORL,TOR
+2025-01-03,Boston Celtics,,Houston Rockets,,BOS,HOU
+2025-01-03,Washington Wizards,,New Orleans Pelicans,,WAS,NOP
+2025-01-03,New York Knicks,,Oklahoma City Thunder,,NYK,OKC
+2025-01-03,Cleveland Cavaliers,,Dallas Mavericks,,CLE,DAL
+2025-01-03,San Antonio Spurs,,Denver Nuggets,,SAS,DEN
+2025-01-03,Memphis Grizzlies,,Sacramento Kings,,MEM,SAC
+2025-01-03,Atlanta Hawks,,Los Angeles Lakers,,ATL,LAL
+2025-01-04,Philadelphia 76ers,,Brooklyn Nets,,PHI,BRK
+2025-01-04,Minnesota Timberwolves,,Detroit Pistons,,MIN,DET
+2025-01-04,Phoenix Suns,,Indiana Pacers,,PHO,IND
+2025-01-04,New York Knicks,,Chicago Bulls,,NYK,CHI
+2025-01-04,Utah Jazz,,Miami Heat,,UTA,MIA
+2025-01-04,Portland Trail Blazers,,Milwaukee Bucks,,POR,MIL
+2025-01-04,Denver Nuggets,,San Antonio Spurs,,DEN,SAS
+2025-01-04,Memphis Grizzlies,,Golden State Warriors,,MEM,GSW
+2025-01-04,Atlanta Hawks,,Los Angeles Clippers,,ATL,LAC
+2025-01-05,Boston Celtics,,Oklahoma City Thunder,,BOS,OKC
+2025-01-05,Charlotte Hornets,,Cleveland Cavaliers,,CHO,CLE
+2025-01-05,New Orleans Pelicans,,Washington Wizards,,NOP,WAS
+2025-01-05,Utah Jazz,,Orlando Magic,,UTA,ORL
+2025-01-05,Los Angeles Lakers,,Houston Rockets,,LAL,HOU
+2025-01-05,Sacramento Kings,,Golden State Warriors,,SAC,GSW
+2025-01-06,Portland Trail Blazers,,Detroit Pistons,,POR,DET
+2025-01-06,Phoenix Suns,,Philadelphia 76ers,,PHO,PHI
+2025-01-06,Indiana Pacers,,Brooklyn Nets,,IND,BRK
+2025-01-06,Orlando Magic,,New York Knicks,,ORL,NYK
+2025-01-06,Milwaukee Bucks,,Toronto Raptors,,MIL,TOR
+2025-01-06,San Antonio Spurs,,Chicago Bulls,,SAS,CHI
+2025-01-06,Dallas Mavericks,,Memphis Grizzlies,,DAL,MEM
+2025-01-06,Los Angeles Clippers,,Minnesota Timberwolves,,LAC,MIN
+2025-01-06,Miami Heat,,Sacramento Kings,,MIA,SAC
+2025-01-07,Phoenix Suns,,Charlotte Hornets,,PHO,CHO
+2025-01-07,Houston Rockets,,Washington Wizards,,HOU,WAS
+2025-01-07,Los Angeles Lakers,,Dallas Mavericks,,LAL,DAL
+2025-01-07,Minnesota Timberwolves,,New Orleans Pelicans,,MIN,NOP
+2025-01-07,Atlanta Hawks,,Utah Jazz,,ATL,UTA
+2025-01-07,Boston Celtics,,Denver Nuggets,,BOS,DEN
+2025-01-07,Miami Heat,,Golden State Warriors,,MIA,GSW
+2025-01-08,Oklahoma City Thunder,,Cleveland Cavaliers,,OKC,CLE
+2025-01-08,Chicago Bulls,,Indiana Pacers,,CHI,IND
+2025-01-08,Toronto Raptors,,New York Knicks,,TOR,NYK
+2025-01-08,Washington Wizards,,Philadelphia 76ers,,WAS,PHI
+2025-01-08,Detroit Pistons,,Brooklyn Nets,,DET,BRK
+2025-01-08,Portland Trail Blazers,,New Orleans Pelicans,,POR,NOP
+2025-01-08,Los Angeles Clippers,,Denver Nuggets,,LAC,DEN
+2025-01-08,San Antonio Spurs,,Milwaukee Bucks,,SAS,MIL
+2025-01-09,Toronto Raptors,,Cleveland Cavaliers,,TOR,CLE
+2025-01-09,Golden State Warriors,,Detroit Pistons,,GSW,DET
+2025-01-09,Minnesota Timberwolves,,Orlando Magic,,MIN,ORL
+2025-01-09,Houston Rockets,,Memphis Grizzlies,,HOU,MEM
+2025-01-09,Portland Trail Blazers,,Dallas Mavericks,,POR,DAL
+2025-01-09,Atlanta Hawks,,Phoenix Suns,,ATL,PHO
+2025-01-09,Miami Heat,,Utah Jazz,,MIA,UTA
+2025-01-09,Charlotte Hornets,,Los Angeles Lakers,,CHO,LAL
+2025-01-10,Golden State Warriors,,Indiana Pacers,,GSW,IND
+2025-01-10,Milwaukee Bucks,,Orlando Magic,,MIL,ORL
+2025-01-10,New Orleans Pelicans,,Philadelphia 76ers,,NOP,PHI
+2025-01-10,Sacramento Kings,,Boston Celtics,,SAC,BOS
+2025-01-10,Oklahoma City Thunder,,New York Knicks,,OKC,NYK
+2025-01-10,Washington Wizards,,Chicago Bulls,,WAS,CHI
+2025-01-10,Brooklyn Nets,,Denver Nuggets,,BRK,DEN
+2025-01-11,Houston Rockets,,Atlanta Hawks,,HOU,ATL
+2025-01-11,Utah Jazz,,Phoenix Suns,,UTA,PHO
+2025-01-11,Toronto Raptors,,Detroit Pistons,,TOR,DET
+2025-01-11,Memphis Grizzlies,,Minnesota Timberwolves,,MEM,MIN
+2025-01-11,Miami Heat,,Portland Trail Blazers,,MIA,POR
+2025-01-11,Charlotte Hornets,,Los Angeles Clippers,,CHO,LAC
+2025-01-11,San Antonio Spurs,,Los Angeles Lakers,,SAS,LAL
+2025-01-12,Denver Nuggets,,Dallas Mavericks,,DEN,DAL
+2025-01-12,Milwaukee Bucks,,New York Knicks,,MIL,NYK
+2025-01-12,Sacramento Kings,,Chicago Bulls,,SAC,CHI
+2025-01-12,New Orleans Pelicans,,Boston Celtics,,NOP,BOS
+2025-01-12,Indiana Pacers,,Cleveland Cavaliers,,IND,CLE
+2025-01-12,Philadelphia 76ers,,Orlando Magic,,PHI,ORL
+2025-01-12,Oklahoma City Thunder,,Washington Wizards,,OKC,WAS
+2025-01-12,Brooklyn Nets,,Utah Jazz,,BRK,UTA
+2025-01-12,Charlotte Hornets,,Phoenix Suns,,CHO,PHO
+2025-01-13,Minnesota Timberwolves,,Washington Wizards,,MIN,WAS
+2025-01-13,Detroit Pistons,,New York Knicks,,DET,NYK
+2025-01-13,Golden State Warriors,,Toronto Raptors,,GSW,TOR
+2025-01-13,Memphis Grizzlies,,Houston Rockets,,MEM,HOU
+2025-01-13,Miami Heat,,Los Angeles Clippers,,MIA,LAC
+2025-01-13,San Antonio Spurs,,Los Angeles Lakers,,SAS,LAL
+2025-01-14,Cleveland Cavaliers,,Indiana Pacers,,CLE,IND
+2025-01-14,Oklahoma City Thunder,,Philadelphia 76ers,,OKC,PHI
+2025-01-14,Phoenix Suns,,Atlanta Hawks,,PHO,ATL
+2025-01-14,New Orleans Pelicans,,Chicago Bulls,,NOP,CHI
+2025-01-14,Sacramento Kings,,Milwaukee Bucks,,SAC,MIL
+2025-01-14,Denver Nuggets,,Dallas Mavericks,,DEN,DAL
+2025-01-14,Brooklyn Nets,,Portland Trail Blazers,,BRK,POR
+2025-01-15,New York Knicks,,Philadelphia 76ers,,NYK,PHI
+2025-01-15,Boston Celtics,,Toronto Raptors,,BOS,TOR
+2025-01-15,Atlanta Hawks,,Chicago Bulls,,ATL,CHI
+2025-01-15,Orlando Magic,,Milwaukee Bucks,,ORL,MIL
+2025-01-15,Golden State Warriors,,Minnesota Timberwolves,,GSW,MIN
+2025-01-15,Dallas Mavericks,,New Orleans Pelicans,,DAL,NOP
+2025-01-15,Memphis Grizzlies,,San Antonio Spurs,,MEM,SAS
+2025-01-15,Houston Rockets,,Denver Nuggets,,HOU,DEN
+2025-01-15,Charlotte Hornets,,Utah Jazz,,CHO,UTA
+2025-01-15,Miami Heat,,Los Angeles Lakers,,MIA,LAL
+2025-01-15,Brooklyn Nets,,Los Angeles Clippers,,BRK,LAC
+2025-01-16,Indiana Pacers,,Detroit Pistons,,IND,DET
+2025-01-16,Phoenix Suns,,Washington Wizards,,PHO,WAS
+2025-01-16,Cleveland Cavaliers,,Oklahoma City Thunder,,CLE,OKC
+2025-01-16,Los Angeles Clippers,,Portland Trail Blazers,,LAC,POR
+2025-01-16,Houston Rockets,,Sacramento Kings,,HOU,SAC
+2025-01-17,Orlando Magic,,Boston Celtics,,ORL,BOS
+2025-01-17,Minnesota Timberwolves,,New York Knicks,,MIN,NYK
+2025-01-17,Denver Nuggets,,Miami Heat,,DEN,MIA
+2025-01-17,Toronto Raptors,,Milwaukee Bucks,,TOR,MIL
+2025-01-17,Utah Jazz,,New Orleans Pelicans,,UTA,NOP
+2025-01-17,Memphis Grizzlies,,San Antonio Spurs,,MEM,SAS
+2025-01-17,Oklahoma City Thunder,,Dallas Mavericks,,OKC,DAL
+2025-01-17,Charlotte Hornets,,Chicago Bulls,,CHO,CHI
+2025-01-17,Brooklyn Nets,,Los Angeles Lakers,,BRK,LAL
+2025-01-18,Phoenix Suns,,Detroit Pistons,,PHO,DET
+2025-01-18,Atlanta Hawks,,Boston Celtics,,ATL,BOS
+2025-01-18,Philadelphia 76ers,,Indiana Pacers,,PHI,IND
+2025-01-18,Washington Wizards,,Golden State Warriors,,WAS,GSW
+2025-01-18,Cleveland Cavaliers,,Minnesota Timberwolves,,CLE,MIN
+2025-01-18,Houston Rockets,,Portland Trail Blazers,,HOU,POR
+2025-01-19,San Antonio Spurs,,Miami Heat,,SAS,MIA
+2025-01-19,Denver Nuggets,,Orlando Magic,,DEN,ORL
+2025-01-19,Philadelphia 76ers,,Milwaukee Bucks,,PHI,MIL
+2025-01-19,Brooklyn Nets,,Oklahoma City Thunder,,BRK,OKC
+2025-01-19,Los Angeles Lakers,,Los Angeles Clippers,,LAL,LAC
+2025-01-19,Chicago Bulls,,Portland Trail Blazers,,CHI,POR
+2025-01-19,Washington Wizards,,Sacramento Kings,,WAS,SAC
+2025-01-20,Dallas Mavericks,,Charlotte Hornets,,DAL,CHO
+2025-01-20,Detroit Pistons,,Houston Rockets,,DET,HOU
+2025-01-20,Minnesota Timberwolves,,Memphis Grizzlies,,MIN,MEM
+2025-01-20,Atlanta Hawks,,New York Knicks,,ATL,NYK
+2025-01-20,Phoenix Suns,,Cleveland Cavaliers,,PHO,CLE
+2025-01-20,Boston Celtics,,Golden State Warriors,,BOS,GSW
+2025-01-20,Utah Jazz,,New Orleans Pelicans,,UTA,NOP
+2025-01-21,New York Knicks,,Brooklyn Nets,,NYK,BRK
+2025-01-21,Portland Trail Blazers,,Miami Heat,,POR,MIA
+2025-01-21,Orlando Magic,,Toronto Raptors,,ORL,TOR
+2025-01-21,Philadelphia 76ers,,Denver Nuggets,,PHI,DEN
+2025-01-21,Chicago Bulls,,Los Angeles Clippers,,CHI,LAC
+2025-01-21,Washington Wizards,,Los Angeles Lakers,,WAS,LAL
+2025-01-22,Detroit Pistons,,Atlanta Hawks,,DET,ATL
+2025-01-22,Phoenix Suns,,Brooklyn Nets,,PHO,BRK
+2025-01-22,Minnesota Timberwolves,,Dallas Mavericks,,MIN,DAL
+2025-01-22,Cleveland Cavaliers,,Houston Rockets,,CLE,HOU
+2025-01-22,Charlotte Hornets,,Memphis Grizzlies,,CHO,MEM
+2025-01-22,Milwaukee Bucks,,New Orleans Pelicans,,MIL,NOP
+2025-01-22,Utah Jazz,,Oklahoma City Thunder,,UTA,OKC
+2025-01-22,Golden State Warriors,,Sacramento Kings,,GSW,SAC
+2025-01-22,Boston Celtics,,Los Angeles Clippers,,BOS,LAC
+2025-01-23,San Antonio Spurs,,Indiana Pacers,,SAS,IND
+2025-01-23,Portland Trail Blazers,,Orlando Magic,,POR,ORL
+2025-01-23,Toronto Raptors,,Atlanta Hawks,,TOR,ATL
+2025-01-23,Miami Heat,,Milwaukee Bucks,,MIA,MIL
+2025-01-23,Dallas Mavericks,,Oklahoma City Thunder,,DAL,OKC
+2025-01-23,Sacramento Kings,,Denver Nuggets,,SAC,DEN
+2025-01-23,Washington Wizards,,Utah Jazz,,WAS,UTA
+2025-01-23,Chicago Bulls,,Golden State Warriors,,CHI,GSW
+2025-01-23,Boston Celtics,,Los Angeles Lakers,,BOS,LAL
+2025-01-24,Portland Trail Blazers,,Charlotte Hornets,,POR,CHO
+2025-01-24,Cleveland Cavaliers,,Philadelphia 76ers,,CLE,PHI
+2025-01-24,New Orleans Pelicans,,Memphis Grizzlies,,NOP,MEM
+2025-01-25,Indiana Pacers,,San Antonio Spurs,,IND,SAS
+2025-01-25,Denver Nuggets,,Minnesota Timberwolves,,DEN,MIN
+2025-01-25,Boston Celtics,,Dallas Mavericks,,BOS,DAL
+2025-01-25,Miami Heat,,Brooklyn Nets,,MIA,BRK
+2025-01-25,New Orleans Pelicans,,Charlotte Hornets,,NOP,CHO
+2025-01-25,Detroit Pistons,,Orlando Magic,,DET,ORL
+2025-01-25,Toronto Raptors,,Atlanta Hawks,,TOR,ATL
+2025-01-25,Houston Rockets,,Cleveland Cavaliers,,HOU,CLE
+2025-01-25,Sacramento Kings,,New York Knicks,,SAC,NYK
+2025-01-25,Philadelphia 76ers,,Chicago Bulls,,PHI,CHI
+2025-01-25,Utah Jazz,,Memphis Grizzlies,,UTA,MEM
+2025-01-25,Los Angeles Lakers,,Golden State Warriors,,LAL,GSW
+2025-01-25,Washington Wizards,,Phoenix Suns,,WAS,PHO
+2025-01-25,Milwaukee Bucks,,Los Angeles Clippers,,MIL,LAC
+2025-01-26,Oklahoma City Thunder,,Portland Trail Blazers,,OKC,POR
+2025-01-27,Los Angeles Lakers,,Charlotte Hornets,,LAL,CHO
+2025-01-27,Detroit Pistons,,Cleveland Cavaliers,,DET,CLE
+2025-01-27,Houston Rockets,,Boston Celtics,,HOU,BOS
+2025-01-27,Sacramento Kings,,Brooklyn Nets,,SAC,BRK
+2025-01-27,Orlando Magic,,Miami Heat,,ORL,MIA
+2025-01-27,Memphis Grizzlies,,New York Knicks,,MEM,NYK
+2025-01-27,New Orleans Pelicans,,Toronto Raptors,,NOP,TOR
+2025-01-27,Denver Nuggets,,Chicago Bulls,,DEN,CHI
+2025-01-27,Atlanta Hawks,,Minnesota Timberwolves,,ATL,MIN
+2025-01-27,Washington Wizards,,Dallas Mavericks,,WAS,DAL
+2025-01-27,Milwaukee Bucks,,Utah Jazz,,MIL,UTA
+2025-01-27,Los Angeles Clippers,,Phoenix Suns,,LAC,PHO
+2025-01-28,Los Angeles Lakers,,Philadelphia 76ers,,LAL,PHI
+2025-01-28,Utah Jazz,,Golden State Warriors,,UTA,GSW
+2025-01-28,Milwaukee Bucks,,Portland Trail Blazers,,MIL,POR
+2025-01-29,Brooklyn Nets,,Charlotte Hornets,,BRK,CHO
+2025-01-29,Detroit Pistons,,Indiana Pacers,,DET,IND
+2025-01-29,Toronto Raptors,,Washington Wizards,,TOR,WAS
+2025-01-29,Chicago Bulls,,Boston Celtics,,CHI,BOS
+2025-01-29,Cleveland Cavaliers,,Miami Heat,,CLE,MIA
+2025-01-29,Denver Nuggets,,New York Knicks,,DEN,NYK
+2025-01-29,Sacramento Kings,,Philadelphia 76ers,,SAC,PHI
+2025-01-29,Dallas Mavericks,,New Orleans Pelicans,,DAL,NOP
+2025-01-29,Los Angeles Clippers,,San Antonio Spurs,,LAC,SAS
+2025-01-29,Minnesota Timberwolves,,Phoenix Suns,,MIN,PHO
+2025-01-29,Oklahoma City Thunder,,Golden State Warriors,,OKC,GSW
+2025-01-30,Los Angeles Lakers,,Washington Wizards,,LAL,WAS
+2025-01-30,Atlanta Hawks,,Cleveland Cavaliers,,ATL,CLE
+2025-01-30,Houston Rockets,,Memphis Grizzlies,,HOU,MEM
+2025-01-30,Orlando Magic,,Portland Trail Blazers,,ORL,POR
+2025-01-30,Minnesota Timberwolves,,Utah Jazz,,MIN,UTA
+2025-01-31,Los Angeles Clippers,,Charlotte Hornets,,LAC,CHO
+2025-01-31,Dallas Mavericks,,Detroit Pistons,,DAL,DET
+2025-01-31,Denver Nuggets,,Philadelphia 76ers,,DEN,PHI
+2025-01-31,Chicago Bulls,,Toronto Raptors,,CHI,TOR
+2025-01-31,Boston Celtics,,New Orleans Pelicans,,BOS,NOP
+2025-01-31,Milwaukee Bucks,,San Antonio Spurs,,MIL,SAS
+2025-01-31,Phoenix Suns,,Golden State Warriors,,PHO,GSW
+2025-02-01,Atlanta Hawks,,Indiana Pacers,,ATL,IND
+2025-02-01,Orlando Magic,,Utah Jazz,,ORL,UTA
+2025-02-01,Denver Nuggets,,Charlotte Hornets,,DEN,CHO
+2025-02-01,Brooklyn Nets,,Houston Rockets,,BRK,HOU
+2025-02-01,Washington Wizards,,Minnesota Timberwolves,,WAS,MIN
+2025-02-01,Sacramento Kings,,Oklahoma City Thunder,,SAC,OKC
+2025-02-01,Los Angeles Lakers,,New York Knicks,,LAL,NYK
+2025-02-01,Miami Heat,,San Antonio Spurs,,MIA,SAS
+2025-02-01,Phoenix Suns,,Portland Trail Blazers,,PHO,POR
+2025-02-02,Chicago Bulls,,Detroit Pistons,,CHI,DET
+2025-02-02,Dallas Mavericks,,Cleveland Cavaliers,,DAL,CLE
+2025-02-02,Los Angeles Clippers,,Toronto Raptors,,LAC,TOR
+2025-02-02,Boston Celtics,,Philadelphia 76ers,,BOS,PHI
+2025-02-02,Memphis Grizzlies,,Milwaukee Bucks,,MEM,MIL
+2025-02-03,Washington Wizards,,Charlotte Hornets,,WAS,CHO
+2025-02-03,Atlanta Hawks,,Detroit Pistons,,ATL,DET
+2025-02-03,Houston Rockets,,New York Knicks,,HOU,NYK
+2025-02-03,San Antonio Spurs,,Memphis Grizzlies,,SAS,MEM
+2025-02-03,Sacramento Kings,,Minnesota Timberwolves,,SAC,MIN
+2025-02-03,Milwaukee Bucks,,Oklahoma City Thunder,,MIL,OKC
+2025-02-03,New Orleans Pelicans,,Denver Nuggets,,NOP,DEN
+2025-02-03,Indiana Pacers,,Utah Jazz,,IND,UTA
+2025-02-03,Orlando Magic,,Golden State Warriors,,ORL,GSW
+2025-02-03,Phoenix Suns,,Portland Trail Blazers,,PHO,POR
+2025-02-04,Boston Celtics,,Cleveland Cavaliers,,BOS,CLE
+2025-02-04,Houston Rockets,,Brooklyn Nets,,HOU,BRK
+2025-02-04,Dallas Mavericks,,Philadelphia 76ers,,DAL,PHI
+2025-02-04,New York Knicks,,Toronto Raptors,,NYK,TOR
+2025-02-04,Miami Heat,,Chicago Bulls,,MIA,CHI
+2025-02-04,Los Angeles Lakers,,Los Angeles Clippers,,LAL,LAC
+2025-02-04,Indiana Pacers,,Portland Trail Blazers,,IND,POR
+2025-02-05,Milwaukee Bucks,,Charlotte Hornets,,MIL,CHO
+2025-02-05,Cleveland Cavaliers,,Detroit Pistons,,CLE,DET
+2025-02-05,San Antonio Spurs,,Atlanta Hawks,,SAS,ATL
+2025-02-05,Washington Wizards,,Brooklyn Nets,,WAS,BRK
+2025-02-05,Miami Heat,,Philadelphia 76ers,,MIA,PHI
+2025-02-05,Memphis Grizzlies,,Toronto Raptors,,MEM,TOR
+2025-02-05,Chicago Bulls,,Minnesota Timberwolves,,CHI,MIN
+2025-02-05,Phoenix Suns,,Oklahoma City Thunder,,PHO,OKC
+2025-02-05,Golden State Warriors,,Utah Jazz,,GSW,UTA
+2025-02-05,New Orleans Pelicans,,Denver Nuggets,,NOP,DEN
+2025-02-05,Orlando Magic,,Sacramento Kings,,ORL,SAC
+2025-02-06,Dallas Mavericks,,Boston Celtics,,DAL,BOS
+2025-02-06,Houston Rockets,,Minnesota Timberwolves,,HOU,MIN
+2025-02-06,Orlando Magic,,Denver Nuggets,,ORL,DEN
+2025-02-06,Golden State Warriors,,Los Angeles Lakers,,GSW,LAL
+2025-02-06,Sacramento Kings,,Portland Trail Blazers,,SAC,POR
+2025-02-06,Indiana Pacers,,Los Angeles Clippers,,IND,LAC
+2025-02-07,San Antonio Spurs,,Charlotte Hornets,,SAS,CHO
+2025-02-07,Cleveland Cavaliers,,Washington Wizards,,CLE,WAS
+2025-02-07,Milwaukee Bucks,,Atlanta Hawks,,MIL,ATL
+2025-02-07,Miami Heat,,Brooklyn Nets,,MIA,BRK
+2025-02-07,Philadelphia 76ers,,Detroit Pistons,,PHI,DET
+2025-02-07,Toronto Raptors,,Oklahoma City Thunder,,TOR,OKC
+2025-02-07,Utah Jazz,,Phoenix Suns,,UTA,PHO
+2025-02-08,Houston Rockets,,Dallas Mavericks,,HOU,DAL
+2025-02-08,Indiana Pacers,,Los Angeles Lakers,,IND,LAL
+2025-02-08,San Antonio Spurs,,Orlando Magic,,SAS,ORL
+2025-02-08,Atlanta Hawks,,Washington Wizards,,ATL,WAS
+2025-02-08,Golden State Warriors,,Chicago Bulls,,GSW,CHI
+2025-02-08,Oklahoma City Thunder,,Memphis Grizzlies,,OKC,MEM
+2025-02-08,Portland Trail Blazers,,Minnesota Timberwolves,,POR,MIN
+2025-02-08,Boston Celtics,,New York Knicks,,BOS,NYK
+2025-02-08,Denver Nuggets,,Phoenix Suns,,DEN,PHO
+2025-02-08,New Orleans Pelicans,,Sacramento Kings,,NOP,SAC
+2025-02-08,Utah Jazz,,Los Angeles Clippers,,UTA,LAC
+2025-02-09,Charlotte Hornets,,Detroit Pistons,,CHO,DET
+2025-02-09,Toronto Raptors,,Houston Rockets,,TOR,HOU
+2025-02-09,Philadelphia 76ers,,Milwaukee Bucks,,PHI,MIL
+2025-02-10,Minnesota Timberwolves,,Cleveland Cavaliers,,MIN,CLE
+2025-02-10,Atlanta Hawks,,Orlando Magic,,ATL,ORL
+2025-02-10,San Antonio Spurs,,Washington Wizards,,SAS,WAS
+2025-02-10,Charlotte Hornets,,Brooklyn Nets,,CHO,BRK
+2025-02-10,Boston Celtics,,Miami Heat,,BOS,MIA
+2025-02-10,Golden State Warriors,,Milwaukee Bucks,,GSW,MIL
+2025-02-10,New Orleans Pelicans,,Oklahoma City Thunder,,NOP,OKC
+2025-02-10,Sacramento Kings,,Dallas Mavericks,,SAC,DAL
+2025-02-10,Portland Trail Blazers,,Denver Nuggets,,POR,DEN
+2025-02-11,Toronto Raptors,,Philadelphia 76ers,,TOR,PHI
+2025-02-11,New York Knicks,,Indiana Pacers,,NYK,IND
+2025-02-11,Detroit Pistons,,Chicago Bulls,,DET,CHI
+2025-02-11,Memphis Grizzlies,,Phoenix Suns,,MEM,PHO
+2025-02-11,Utah Jazz,,Los Angeles Lakers,,UTA,LAL
+2025-02-12,San Antonio Spurs,,Boston Celtics,,SAS,BOS
+2025-02-12,Charlotte Hornets,,Orlando Magic,,CHO,ORL
+2025-02-12,Indiana Pacers,,Washington Wizards,,IND,WAS
+2025-02-12,Philadelphia 76ers,,Brooklyn Nets,,PHI,BRK
+2025-02-12,Atlanta Hawks,,New York Knicks,,ATL,NYK
+2025-02-12,Cleveland Cavaliers,,Toronto Raptors,,CLE,TOR
+2025-02-12,Detroit Pistons,,Chicago Bulls,,DET,CHI
+2025-02-12,Milwaukee Bucks,,Minnesota Timberwolves,,MIL,MIN
+2025-02-12,Sacramento Kings,,New Orleans Pelicans,,SAC,NOP
+2025-02-12,Miami Heat,,Oklahoma City Thunder,,MIA,OKC
+2025-02-12,Phoenix Suns,,Houston Rockets,,PHO,HOU
+2025-02-12,Portland Trail Blazers,,Denver Nuggets,,POR,DEN
+2025-02-12,Los Angeles Lakers,,Utah Jazz,,LAL,UTA
+2025-02-12,Golden State Warriors,,Dallas Mavericks,,GSW,DAL
+2025-02-12,Memphis Grizzlies,,Los Angeles Clippers,,MEM,LAC
+2025-02-13,Golden State Warriors,,Houston Rockets,,GSW,HOU
+2025-02-13,Sacramento Kings,,New Orleans Pelicans,,SAC,NOP
+2025-02-13,Miami Heat,,Dallas Mavericks,,MIA,DAL
+2025-02-13,Oklahoma City Thunder,,Minnesota Timberwolves,,OKC,MIN
+2025-02-20,Memphis Grizzlies,,Indiana Pacers,,MEM,IND
+2025-02-20,Boston Celtics,,Philadelphia 76ers,,BOS,PHI
+2025-02-20,Orlando Magic,,Atlanta Hawks,,ORL,ATL
+2025-02-20,Cleveland Cavaliers,,Brooklyn Nets,,CLE,BRK
+2025-02-20,Chicago Bulls,,New York Knicks,,CHI,NYK
+2025-02-20,Los Angeles Clippers,,Milwaukee Bucks,,LAC,MIL
+2025-02-20,Charlotte Hornets,,Denver Nuggets,,CHO,DEN
+2025-02-20,Phoenix Suns,,San Antonio Spurs,,PHO,SAS
+2025-02-20,Los Angeles Lakers,,Portland Trail Blazers,,LAL,POR
+2025-02-21,New York Knicks,,Cleveland Cavaliers,,NYK,CLE
+2025-02-21,Memphis Grizzlies,,Orlando Magic,,MEM,ORL
+2025-02-21,Milwaukee Bucks,,Washington Wizards,,MIL,WAS
+2025-02-21,Miami Heat,,Toronto Raptors,,MIA,TOR
+2025-02-21,Minnesota Timberwolves,,Houston Rockets,,MIN,HOU
+2025-02-21,Detroit Pistons,,San Antonio Spurs,,DET,SAS
+2025-02-21,New Orleans Pelicans,,Dallas Mavericks,,NOP,DAL
+2025-02-21,Oklahoma City Thunder,,Utah Jazz,,OKC,UTA
+2025-02-21,Golden State Warriors,,Sacramento Kings,,GSW,SAC
+2025-02-22,Phoenix Suns,,Chicago Bulls,,PHO,CHI
+2025-02-22,Brooklyn Nets,,Philadelphia 76ers,,BRK,PHI
+2025-02-22,Los Angeles Lakers,,Denver Nuggets,,LAL,DEN
+2025-02-22,Houston Rockets,,Utah Jazz,,HOU,UTA
+2025-02-22,Charlotte Hornets,,Portland Trail Blazers,,CHO,POR
+2025-02-23,New York Knicks,,Boston Celtics,,NYK,BOS
+2025-02-23,Dallas Mavericks,,Golden State Warriors,,DAL,GSW
+2025-02-23,Los Angeles Clippers,,Indiana Pacers,,LAC,IND
+2025-02-23,Detroit Pistons,,Atlanta Hawks,,DET,ATL
+2025-02-23,Washington Wizards,,Orlando Magic,,WAS,ORL
+2025-02-23,Phoenix Suns,,Toronto Raptors,,PHO,TOR
+2025-02-23,Miami Heat,,Milwaukee Bucks,,MIA,MIL
+2025-02-23,San Antonio Spurs,,New Orleans Pelicans,,SAS,NOP
+2025-02-23,Memphis Grizzlies,,Cleveland Cavaliers,,MEM,CLE
+2025-02-23,Oklahoma City Thunder,,Minnesota Timberwolves,,OKC,MIN
+2025-02-24,Los Angeles Clippers,,Detroit Pistons,,LAC,DET
+2025-02-24,Denver Nuggets,,Indiana Pacers,,DEN,IND
+2025-02-24,Chicago Bulls,,Philadelphia 76ers,,CHI,PHI
+2025-02-24,Brooklyn Nets,,Washington Wizards,,BRK,WAS
+2025-02-24,Miami Heat,,Atlanta Hawks,,MIA,ATL
+2025-02-24,Minnesota Timberwolves,,Oklahoma City Thunder,,MIN,OKC
+2025-02-24,Portland Trail Blazers,,Utah Jazz,,POR,UTA
+2025-02-24,Charlotte Hornets,,Sacramento Kings,,CHO,SAC
+2025-02-25,Boston Celtics,,Toronto Raptors,,BOS,TOR
+2025-02-25,Cleveland Cavaliers,,Orlando Magic,,CLE,ORL
+2025-02-25,Milwaukee Bucks,,Houston Rockets,,MIL,HOU
+2025-02-25,Phoenix Suns,,Memphis Grizzlies,,PHO,MEM
+2025-02-25,San Antonio Spurs,,New Orleans Pelicans,,SAS,NOP
+2025-02-25,Charlotte Hornets,,Golden State Warriors,,CHO,GSW
+2025-02-25,Dallas Mavericks,,Los Angeles Lakers,,DAL,LAL
+2025-02-26,Boston Celtics,,Detroit Pistons,,BOS,DET
+2025-02-26,Toronto Raptors,,Indiana Pacers,,TOR,IND
+2025-02-26,Philadelphia 76ers,,New York Knicks,,PHI,NYK
+2025-02-26,Portland Trail Blazers,,Washington Wizards,,POR,WAS
+2025-02-26,Oklahoma City Thunder,,Brooklyn Nets,,OKC,BRK
+2025-02-26,Atlanta Hawks,,Miami Heat,,ATL,MIA
+2025-02-26,Los Angeles Clippers,,Chicago Bulls,,LAC,CHI
+2025-02-26,Sacramento Kings,,Utah Jazz,,SAC,UTA
+2025-02-26,San Antonio Spurs,,Houston Rockets,,SAS,HOU
+2025-02-27,Golden State Warriors,,Orlando Magic,,GSW,ORL
+2025-02-27,Denver Nuggets,,Milwaukee Bucks,,DEN,MIL
+2025-02-27,Charlotte Hornets,,Dallas Mavericks,,CHO,DAL
+2025-02-27,New Orleans Pelicans,,Phoenix Suns,,NOP,PHO
+2025-02-27,Minnesota Timberwolves,,Los Angeles Lakers,,MIN,LAL
+2025-02-28,Denver Nuggets,,Detroit Pistons,,DEN,DET
+2025-02-28,Oklahoma City Thunder,,Atlanta Hawks,,OKC,ATL
+2025-02-28,Cleveland Cavaliers,,Boston Celtics,,CLE,BOS
+2025-02-28,Portland Trail Blazers,,Brooklyn Nets,,POR,BRK
+2025-02-28,Toronto Raptors,,Chicago Bulls,,TOR,CHI
+2025-02-28,New York Knicks,,Memphis Grizzlies,,NYK,MEM
+2025-02-28,Indiana Pacers,,Miami Heat,,IND,MIA
+2025-02-28,New Orleans Pelicans,,Phoenix Suns,,NOP,PHO
+2025-02-28,Minnesota Timberwolves,,Utah Jazz,,MIN,UTA
+2025-02-28,Los Angeles Clippers,,Los Angeles Lakers,,LAC,LAL
+2025-03-01,Washington Wizards,,Charlotte Hornets,,WAS,CHO
+2025-03-01,Brooklyn Nets,,Detroit Pistons,,BRK,DET
+2025-03-01,Sacramento Kings,,Houston Rockets,,SAC,HOU
+2025-03-01,San Antonio Spurs,,Memphis Grizzlies,,SAS,MEM
+2025-03-01,Milwaukee Bucks,,Dallas Mavericks,,MIL,DAL
+2025-03-01,Golden State Warriors,,Philadelphia 76ers,,GSW,PHI
+2025-03-02,Denver Nuggets,,Boston Celtics,,DEN,BOS
+2025-03-02,Portland Trail Blazers,,Cleveland Cavaliers,,POR,CLE
+2025-03-02,Chicago Bulls,,Indiana Pacers,,CHI,IND
+2025-03-02,New York Knicks,,Miami Heat,,NYK,MIA
+2025-03-02,Toronto Raptors,,Orlando Magic,,TOR,ORL
+2025-03-02,Oklahoma City Thunder,,San Antonio Spurs,,OKC,SAS
+2025-03-02,New Orleans Pelicans,,Utah Jazz,,NOP,UTA
+2025-03-02,Los Angeles Clippers,,Los Angeles Lakers,,LAC,LAL
+2025-03-02,Minnesota Timberwolves,,Phoenix Suns,,MIN,PHO
+2025-03-03,Golden State Warriors,,Charlotte Hornets,,GSW,CHO
+2025-03-03,Portland Trail Blazers,,Philadelphia 76ers,,POR,PHI
+2025-03-03,Washington Wizards,,Miami Heat,,WAS,MIA
+2025-03-03,Atlanta Hawks,,Memphis Grizzlies,,ATL,MEM
+2025-03-03,Houston Rockets,,Oklahoma City Thunder,,HOU,OKC
+2025-03-03,Sacramento Kings,,Dallas Mavericks,,SAC,DAL
+2025-03-03,Detroit Pistons,,Utah Jazz,,DET,UTA
+2025-03-04,Houston Rockets,,Indiana Pacers,,HOU,IND
+2025-03-04,Toronto Raptors,,Orlando Magic,,TOR,ORL
+2025-03-04,Milwaukee Bucks,,Atlanta Hawks,,MIL,ATL
+2025-03-04,Golden State Warriors,,New York Knicks,,GSW,NYK
+2025-03-04,Cleveland Cavaliers,,Chicago Bulls,,CLE,CHI
+2025-03-04,Philadelphia 76ers,,Minnesota Timberwolves,,PHI,MIN
+2025-03-04,Brooklyn Nets,,San Antonio Spurs,,BRK,SAS
+2025-03-04,Los Angeles Clippers,,Phoenix Suns,,LAC,PHO
+2025-03-04,New Orleans Pelicans,,Los Angeles Lakers,,NOP,LAL
+2025-03-05,Portland Trail Blazers,,Boston Celtics,,POR,BOS
+2025-03-05,Minnesota Timberwolves,,Charlotte Hornets,,MIN,CHO
+2025-03-05,Miami Heat,,Cleveland Cavaliers,,MIA,CLE
+2025-03-05,Utah Jazz,,Washington Wizards,,UTA,WAS
+2025-03-05,Oklahoma City Thunder,,Memphis Grizzlies,,OKC,MEM
+2025-03-05,Sacramento Kings,,Denver Nuggets,,SAC,DEN
+2025-03-05,Dallas Mavericks,,Milwaukee Bucks,,DAL,MIL
+2025-03-05,Detroit Pistons,,Los Angeles Clippers,,DET,LAC
+2025-03-06,Indiana Pacers,,Atlanta Hawks,,IND,ATL
+2025-03-06,Philadelphia 76ers,,Boston Celtics,,PHI,BOS
+2025-03-06,Golden State Warriors,,Brooklyn Nets,,GSW,BRK
+2025-03-06,Houston Rockets,,New Orleans Pelicans,,HOU,NOP
+2025-03-06,New York Knicks,,Los Angeles Lakers,,NYK,LAL
+2025-03-07,Cleveland Cavaliers,,Charlotte Hornets,,CLE,CHO
+2025-03-07,Memphis Grizzlies,,Dallas Mavericks,,MEM,DAL
+2025-03-07,Utah Jazz,,Toronto Raptors,,UTA,TOR
+2025-03-07,Minnesota Timberwolves,,Miami Heat,,MIN,MIA
+2025-03-07,Portland Trail Blazers,,Oklahoma City Thunder,,POR,OKC
+2025-03-07,Phoenix Suns,,Denver Nuggets,,PHO,DEN
+2025-03-07,San Antonio Spurs,,Sacramento Kings,,SAS,SAC
+2025-03-07,New York Knicks,,Los Angeles Clippers,,NYK,LAC
+2025-03-08,Brooklyn Nets,,Charlotte Hornets,,BRK,CHO
+2025-03-08,New Orleans Pelicans,,Houston Rockets,,NOP,HOU
+2025-03-08,Indiana Pacers,,Atlanta Hawks,,IND,ATL
+2025-03-08,Washington Wizards,,Toronto Raptors,,WAS,TOR
+2025-03-08,Chicago Bulls,,Miami Heat,,CHI,MIA
+2025-03-08,Orlando Magic,,Milwaukee Bucks,,ORL,MIL
+2025-03-08,Los Angeles Lakers,,Boston Celtics,,LAL,BOS
+2025-03-08,Detroit Pistons,,Golden State Warriors,,DET,GSW
+2025-03-09,Denver Nuggets,,Oklahoma City Thunder,,DEN,OKC
+2025-03-09,Phoenix Suns,,Dallas Mavericks,,PHO,DAL
+2025-03-09,Memphis Grizzlies,,New Orleans Pelicans,,MEM,NOP
+2025-03-09,Utah Jazz,,Philadelphia 76ers,,UTA,PHI
+2025-03-09,Cleveland Cavaliers,,Milwaukee Bucks,,CLE,MIL
+2025-03-09,San Antonio Spurs,,Minnesota Timberwolves,,SAS,MIN
+2025-03-09,Detroit Pistons,,Portland Trail Blazers,,DET,POR
+2025-03-09,Sacramento Kings,,Los Angeles Clippers,,SAC,LAC
+2025-03-10,Philadelphia 76ers,,Atlanta Hawks,,PHI,ATL
+2025-03-10,Utah Jazz,,Boston Celtics,,UTA,BOS
+2025-03-10,Los Angeles Lakers,,Brooklyn Nets,,LAL,BRK
+2025-03-10,Charlotte Hornets,,Miami Heat,,CHO,MIA
+2025-03-10,Washington Wizards,,Toronto Raptors,,WAS,TOR
+2025-03-10,Indiana Pacers,,Chicago Bulls,,IND,CHI
+2025-03-10,Orlando Magic,,Houston Rockets,,ORL,HOU
+2025-03-10,Phoenix Suns,,Memphis Grizzlies,,PHO,MEM
+2025-03-10,Denver Nuggets,,Oklahoma City Thunder,,DEN,OKC
+2025-03-10,Dallas Mavericks,,San Antonio Spurs,,DAL,SAS
+2025-03-10,Portland Trail Blazers,,Golden State Warriors,,POR,GSW
+2025-03-10,New York Knicks,,Sacramento Kings,,NYK,SAC
+2025-03-11,Brooklyn Nets,,Cleveland Cavaliers,,BRK,CLE
+2025-03-11,Washington Wizards,,Detroit Pistons,,WAS,DET
+2025-03-11,Milwaukee Bucks,,Indiana Pacers,,MIL,IND
+2025-03-11,Los Angeles Clippers,,New Orleans Pelicans,,LAC,NOP
+2025-03-12,Chicago Bulls,,Orlando Magic,,CHI,ORL
+2025-03-12,Charlotte Hornets,,Atlanta Hawks,,CHO,ATL
+2025-03-12,Oklahoma City Thunder,,Boston Celtics,,OKC,BOS
+2025-03-12,Philadelphia 76ers,,Toronto Raptors,,PHI,TOR
+2025-03-12,Phoenix Suns,,Houston Rockets,,PHO,HOU
+2025-03-12,Utah Jazz,,Memphis Grizzlies,,UTA,MEM
+2025-03-12,Los Angeles Clippers,,Miami Heat,,LAC,MIA
+2025-03-12,Dallas Mavericks,,San Antonio Spurs,,DAL,SAS
+2025-03-12,Minnesota Timberwolves,,Denver Nuggets,,MIN,DEN
+2025-03-12,New York Knicks,,Portland Trail Blazers,,NYK,POR
+2025-03-13,Washington Wizards,,Detroit Pistons,,WAS,DET
+2025-03-13,Los Angeles Lakers,,Milwaukee Bucks,,LAL,MIL
+2025-03-13,Brooklyn Nets,,Chicago Bulls,,BRK,CHI
+2025-03-13,Sacramento Kings,,Golden State Warriors,,SAC,GSW
+2025-03-14,Boston Celtics,,Miami Heat,,BOS,MIA
+2025-03-14,Indiana Pacers,,Philadelphia 76ers,,IND,PHI
+2025-03-14,Los Angeles Clippers,,Atlanta Hawks,,LAC,ATL
+2025-03-14,Dallas Mavericks,,Houston Rockets,,DAL,HOU
+2025-03-14,Cleveland Cavaliers,,Memphis Grizzlies,,CLE,MEM
+2025-03-14,Orlando Magic,,Minnesota Timberwolves,,ORL,MIN
+2025-03-14,Charlotte Hornets,,San Antonio Spurs,,CHO,SAS
+2025-03-14,Los Angeles Lakers,,Denver Nuggets,,LAL,DEN
+2025-03-14,Toronto Raptors,,Utah Jazz,,TOR,UTA
+2025-03-14,Sacramento Kings,,Phoenix Suns,,SAC,PHO
+2025-03-15,Boston Celtics,,Brooklyn Nets,,BOS,BRK
+2025-03-15,Oklahoma City Thunder,,Detroit Pistons,,OKC,DET
+2025-03-15,Chicago Bulls,,Houston Rockets,,CHI,HOU
+2025-03-15,Miami Heat,,Memphis Grizzlies,,MIA,MEM
+2025-03-15,Indiana Pacers,,Milwaukee Bucks,,IND,MIL
+2025-03-15,New York Knicks,,Golden State Warriors,,NYK,GSW
+2025-03-15,New Orleans Pelicans,,San Antonio Spurs,,NOP,SAS
+2025-03-15,Washington Wizards,,Denver Nuggets,,WAS,DEN
+2025-03-16,Philadelphia 76ers,,Dallas Mavericks,,PHI,DAL
+2025-03-16,Phoenix Suns,,Los Angeles Lakers,,PHO,LAL
+2025-03-16,Atlanta Hawks,,Brooklyn Nets,,ATL,BRK
+2025-03-16,Orlando Magic,,Cleveland Cavaliers,,ORL,CLE
+2025-03-16,Toronto Raptors,,Portland Trail Blazers,,TOR,POR
+2025-03-16,Utah Jazz,,Minnesota Timberwolves,,UTA,MIN
+2025-03-16,Oklahoma City Thunder,,Milwaukee Bucks,,OKC,MIL
+2025-03-16,Washington Wizards,,Los Angeles Clippers,,WAS,LAC
+2025-03-17,Miami Heat,,New York Knicks,,MIA,NYK
+2025-03-17,Philadelphia 76ers,,Houston Rockets,,PHI,HOU
+2025-03-17,Indiana Pacers,,Minnesota Timberwolves,,IND,MIN
+2025-03-17,Detroit Pistons,,New Orleans Pelicans,,DET,NOP
+2025-03-17,Orlando Magic,,San Antonio Spurs,,ORL,SAS
+2025-03-17,Chicago Bulls,,Utah Jazz,,CHI,UTA
+2025-03-17,Denver Nuggets,,Golden State Warriors,,DEN,GSW
+2025-03-17,Toronto Raptors,,Phoenix Suns,,TOR,PHO
+2025-03-17,Memphis Grizzlies,,Sacramento Kings,,MEM,SAC
+2025-03-18,Atlanta Hawks,,Charlotte Hornets,,ATL,CHO
+2025-03-18,Brooklyn Nets,,Boston Celtics,,BRK,BOS
+2025-03-18,Washington Wizards,,Portland Trail Blazers,,WAS,POR
+2025-03-18,Cleveland Cavaliers,,Los Angeles Clippers,,CLE,LAC
+2025-03-18,Milwaukee Bucks,,Los Angeles Lakers,,MIL,LAL
+2025-03-19,Dallas Mavericks,,Indiana Pacers,,DAL,IND
+2025-03-19,Houston Rockets,,Orlando Magic,,HOU,ORL
+2025-03-19,Detroit Pistons,,Miami Heat,,DET,MIA
+2025-03-19,New Orleans Pelicans,,Minnesota Timberwolves,,NOP,MIN
+2025-03-19,Philadelphia 76ers,,Oklahoma City Thunder,,PHI,OKC
+2025-03-19,New York Knicks,,San Antonio Spurs,,NYK,SAS
+2025-03-19,Los Angeles Clippers,,Utah Jazz,,LAC,UTA
+2025-03-19,Toronto Raptors,,Golden State Warriors,,TOR,GSW
+2025-03-19,Denver Nuggets,,Los Angeles Lakers,,DEN,LAL
+2025-03-19,Chicago Bulls,,Phoenix Suns,,CHI,PHO
+2025-03-19,Memphis Grizzlies,,Portland Trail Blazers,,MEM,POR
+2025-03-19,Cleveland Cavaliers,,Sacramento Kings,,CLE,SAC
+2025-03-20,New York Knicks,,Charlotte Hornets,,NYK,CHO
+2025-03-20,Brooklyn Nets,,Indiana Pacers,,BRK,IND
+2025-03-20,Milwaukee Bucks,,Golden State Warriors,,MIL,GSW
+2025-03-20,Chicago Bulls,,Sacramento Kings,,CHI,SAC
+2025-03-21,Orlando Magic,,Washington Wizards,,ORL,WAS
+2025-03-21,Houston Rockets,,Miami Heat,,HOU,MIA
+2025-03-21,New Orleans Pelicans,,Minnesota Timberwolves,,NOP,MIN
+2025-03-21,Charlotte Hornets,,Oklahoma City Thunder,,CHO,OKC
+2025-03-21,Philadelphia 76ers,,San Antonio Spurs,,PHI,SAS
+2025-03-21,Detroit Pistons,,Dallas Mavericks,,DET,DAL
+2025-03-21,Boston Celtics,,Utah Jazz,,BOS,UTA
+2025-03-21,Cleveland Cavaliers,,Phoenix Suns,,CLE,PHO
+2025-03-21,Denver Nuggets,,Portland Trail Blazers,,DEN,POR
+2025-03-21,Memphis Grizzlies,,Los Angeles Clippers,,MEM,LAC
+2025-03-22,Brooklyn Nets,,Indiana Pacers,,BRK,IND
+2025-03-22,Golden State Warriors,,Atlanta Hawks,,GSW,ATL
+2025-03-22,Washington Wizards,,New York Knicks,,WAS,NYK
+2025-03-22,Milwaukee Bucks,,Sacramento Kings,,MIL,SAC
+2025-03-22,Chicago Bulls,,Los Angeles Lakers,,CHI,LAL
+2025-03-23,New Orleans Pelicans,,Detroit Pistons,,NOP,DET
+2025-03-23,Cleveland Cavaliers,,Utah Jazz,,CLE,UTA
+2025-03-23,Philadelphia 76ers,,Atlanta Hawks,,PHI,ATL
+2025-03-23,Charlotte Hornets,,Miami Heat,,CHO,MIA
+2025-03-23,Boston Celtics,,Portland Trail Blazers,,BOS,POR
+2025-03-23,San Antonio Spurs,,Toronto Raptors,,SAS,TOR
+2025-03-23,Denver Nuggets,,Houston Rockets,,DEN,HOU
+2025-03-23,Oklahoma City Thunder,,Los Angeles Clippers,,OKC,LAC
+2025-03-24,Minnesota Timberwolves,,Indiana Pacers,,MIN,IND
+2025-03-24,Los Angeles Lakers,,Orlando Magic,,LAL,ORL
+2025-03-24,Toronto Raptors,,Washington Wizards,,TOR,WAS
+2025-03-24,Dallas Mavericks,,Brooklyn Nets,,DAL,BRK
+2025-03-24,Philadelphia 76ers,,New Orleans Pelicans,,PHI,NOP
+2025-03-24,Chicago Bulls,,Denver Nuggets,,CHI,DEN
+2025-03-24,Milwaukee Bucks,,Phoenix Suns,,MIL,PHO
+2025-03-24,Boston Celtics,,Sacramento Kings,,BOS,SAC
+2025-03-25,Orlando Magic,,Charlotte Hornets,,ORL,CHO
+2025-03-25,San Antonio Spurs,,Detroit Pistons,,SAS,DET
+2025-03-25,Golden State Warriors,,Miami Heat,,GSW,MIA
+2025-03-25,Dallas Mavericks,,New York Knicks,,DAL,NYK
+2025-03-25,Atlanta Hawks,,Houston Rockets,,ATL,HOU
+2025-03-25,Memphis Grizzlies,,Utah Jazz,,MEM,UTA
+2025-03-25,Cleveland Cavaliers,,Portland Trail Blazers,,CLE,POR
+2025-03-25,Oklahoma City Thunder,,Sacramento Kings,,OKC,SAC
+2025-03-26,Washington Wizards,,Philadelphia 76ers,,WAS,PHI
+2025-03-26,Toronto Raptors,,Brooklyn Nets,,TOR,BRK
+2025-03-26,Los Angeles Lakers,,Indiana Pacers,,LAL,IND
+2025-03-26,Los Angeles Clippers,,New York Knicks,,LAC,NYK
+2025-03-26,Milwaukee Bucks,,Denver Nuggets,,MIL,DEN
+2025-03-26,Boston Celtics,,Phoenix Suns,,BOS,PHO
+2025-03-27,San Antonio Spurs,,Cleveland Cavaliers,,SAS,CLE
+2025-03-27,Dallas Mavericks,,Orlando Magic,,DAL,ORL
+2025-03-27,Indiana Pacers,,Washington Wizards,,IND,WAS
+2025-03-27,Atlanta Hawks,,Miami Heat,,ATL,MIA
+2025-03-27,Los Angeles Lakers,,Chicago Bulls,,LAL,CHI
+2025-03-27,Memphis Grizzlies,,Oklahoma City Thunder,,MEM,OKC
+2025-03-27,Houston Rockets,,Utah Jazz,,HOU,UTA
+2025-03-27,Portland Trail Blazers,,Sacramento Kings,,POR,SAC
+2025-03-28,Cleveland Cavaliers,,Detroit Pistons,,CLE,DET
+2025-03-28,Los Angeles Clippers,,Brooklyn Nets,,LAC,BRK
+2025-03-28,Charlotte Hornets,,Toronto Raptors,,CHO,TOR
+2025-03-28,New York Knicks,,Milwaukee Bucks,,NYK,MIL
+2025-03-28,Phoenix Suns,,Minnesota Timberwolves,,PHO,MIN
+2025-03-28,Golden State Warriors,,New Orleans Pelicans,,GSW,NOP
+2025-03-28,Utah Jazz,,Denver Nuggets,,UTA,DEN
+2025-03-29,Sacramento Kings,,Orlando Magic,,SAC,ORL
+2025-03-29,Brooklyn Nets,,Washington Wizards,,BRK,WAS
+2025-03-29,Miami Heat,,Philadelphia 76ers,,MIA,PHI
+2025-03-29,Dallas Mavericks,,Chicago Bulls,,DAL,CHI
+2025-03-29,Los Angeles Lakers,,Memphis Grizzlies,,LAL,MEM
+2025-03-29,Indiana Pacers,,Oklahoma City Thunder,,IND,OKC
+2025-03-29,Boston Celtics,,San Antonio Spurs,,BOS,SAS
+2025-03-30,Los Angeles Clippers,,Cleveland Cavaliers,,LAC,CLE
+2025-03-30,Portland Trail Blazers,,New York Knicks,,POR,NYK
+2025-03-30,Atlanta Hawks,,Milwaukee Bucks,,ATL,MIL
+2025-03-30,Detroit Pistons,,Minnesota Timberwolves,,DET,MIN
+2025-03-30,Charlotte Hornets,,New Orleans Pelicans,,CHO,NOP
+2025-03-30,Golden State Warriors,,San Antonio Spurs,,GSW,SAS
+2025-03-30,Toronto Raptors,,Philadelphia 76ers,,TOR,PHI
+2025-03-30,Houston Rockets,,Phoenix Suns,,HOU,PHO
+2025-03-31,Utah Jazz,,Charlotte Hornets,,UTA,CHO
+2025-03-31,Sacramento Kings,,Indiana Pacers,,SAC,IND
+2025-03-31,Los Angeles Clippers,,Orlando Magic,,LAC,ORL
+2025-03-31,Miami Heat,,Washington Wizards,,MIA,WAS
+2025-03-31,Boston Celtics,,Memphis Grizzlies,,BOS,MEM
+2025-03-31,Chicago Bulls,,Oklahoma City Thunder,,CHI,OKC
+2025-03-31,Brooklyn Nets,,Dallas Mavericks,,BRK,DAL
+2025-03-31,Houston Rockets,,Los Angeles Lakers,,HOU,LAL
+2025-04-01,Portland Trail Blazers,,Atlanta Hawks,,POR,ATL
+2025-04-01,Philadelphia 76ers,,New York Knicks,,PHI,NYK
+2025-04-01,Toronto Raptors,,Chicago Bulls,,TOR,CHI
+2025-04-01,Golden State Warriors,,Memphis Grizzlies,,GSW,MEM
+2025-04-01,Phoenix Suns,,Milwaukee Bucks,,PHO,MIL
+2025-04-01,Minnesota Timberwolves,,Denver Nuggets,,MIN,DEN
+2025-04-02,New York Knicks,,Cleveland Cavaliers,,NYK,CLE
+2025-04-02,Charlotte Hornets,,Indiana Pacers,,CHO,IND
+2025-04-02,Sacramento Kings,,Washington Wizards,,SAC,WAS
+2025-04-02,Miami Heat,,Boston Celtics,,MIA,BOS
+2025-04-02,Utah Jazz,,Houston Rockets,,UTA,HOU
+2025-04-02,Detroit Pistons,,Oklahoma City Thunder,,DET,OKC
+2025-04-02,Atlanta Hawks,,Dallas Mavericks,,ATL,DAL
+2025-04-02,San Antonio Spurs,,Denver Nuggets,,SAS,DEN
+2025-04-02,New Orleans Pelicans,,Los Angeles Clippers,,NOP,LAC
+2025-04-03,Orlando Magic,,Washington Wizards,,ORL,WAS
+2025-04-03,Minnesota Timberwolves,,Brooklyn Nets,,MIN,BRK
+2025-04-03,Memphis Grizzlies,,Miami Heat,,MEM,MIA
+2025-04-03,Milwaukee Bucks,,Philadelphia 76ers,,MIL,PHI
+2025-04-03,Portland Trail Blazers,,Toronto Raptors,,POR,TOR
+2025-04-03,Golden State Warriors,,Los Angeles Lakers,,GSW,LAL
+2025-04-04,Sacramento Kings,,Charlotte Hornets,,SAC,CHO
+2025-04-04,Utah Jazz,,Indiana Pacers,,UTA,IND
+2025-04-04,Phoenix Suns,,Boston Celtics,,PHO,BOS
+2025-04-04,Detroit Pistons,,Toronto Raptors,,DET,TOR
+2025-04-04,Portland Trail Blazers,,Chicago Bulls,,POR,CHI
+2025-04-04,Oklahoma City Thunder,,Houston Rockets,,OKC,HOU
+2025-04-04,Cleveland Cavaliers,,San Antonio Spurs,,CLE,SAS
+2025-04-04,Denver Nuggets,,Golden State Warriors,,DEN,GSW
+2025-04-04,Dallas Mavericks,,Los Angeles Clippers,,DAL,LAC
+2025-04-04,New Orleans Pelicans,,Los Angeles Lakers,,NOP,LAL
+2025-04-05,New York Knicks,,Atlanta Hawks,,NYK,ATL
+2025-04-05,Memphis Grizzlies,,Detroit Pistons,,MEM,DET
+2025-04-05,Minnesota Timberwolves,,Philadelphia 76ers,,MIN,PHI
+2025-04-05,Milwaukee Bucks,,Miami Heat,,MIL,MIA
+2025-04-05,Dallas Mavericks,,Los Angeles Clippers,,DAL,LAC
+2025-04-06,Chicago Bulls,,Charlotte Hornets,,CHI,CHO
+2025-04-06,Toronto Raptors,,Brooklyn Nets,,TOR,BRK
+2025-04-06,Los Angeles Lakers,,Oklahoma City Thunder,,LAL,OKC
+2025-04-06,Utah Jazz,,Atlanta Hawks,,UTA,ATL
+2025-04-06,Washington Wizards,,Boston Celtics,,WAS,BOS
+2025-04-06,Sacramento Kings,,Cleveland Cavaliers,,SAC,CLE
+2025-04-06,San Antonio Spurs,,Portland Trail Blazers,,SAS,POR
+2025-04-06,Orlando Magic,,New Orleans Pelicans,,ORL,NOP
+2025-04-06,Phoenix Suns,,New York Knicks,,PHO,NYK
+2025-04-06,Indiana Pacers,,Denver Nuggets,,IND,DEN
+2025-04-06,Houston Rockets,,Golden State Warriors,,HOU,GSW
+2025-04-07,Sacramento Kings,,Detroit Pistons,,SAC,DET
+2025-04-07,Philadelphia 76ers,,Miami Heat,,PHI,MIA
+2025-04-08,Memphis Grizzlies,,Charlotte Hornets,,MEM,CHO
+2025-04-08,Chicago Bulls,,Cleveland Cavaliers,,CHI,CLE
+2025-04-08,Washington Wizards,,Indiana Pacers,,WAS,IND
+2025-04-08,Atlanta Hawks,,Orlando Magic,,ATL,ORL
+2025-04-08,New Orleans Pelicans,,Brooklyn Nets,,NOP,BRK
+2025-04-08,Boston Celtics,,New York Knicks,,BOS,NYK
+2025-04-08,Minnesota Timberwolves,,Milwaukee Bucks,,MIN,MIL
+2025-04-08,Los Angeles Lakers,,Oklahoma City Thunder,,LAL,OKC
+2025-04-08,Golden State Warriors,,Phoenix Suns,,GSW,PHO
+2025-04-08,San Antonio Spurs,,Los Angeles Clippers,,SAS,LAC
+2025-04-09,Boston Celtics,,Orlando Magic,,BOS,ORL
+2025-04-09,Philadelphia 76ers,,Washington Wizards,,PHI,WAS
+2025-04-09,Los Angeles Lakers,,Dallas Mavericks,,LAL,DAL
+2025-04-09,Charlotte Hornets,,Toronto Raptors,,CHO,TOR
+2025-04-09,Miami Heat,,Chicago Bulls,,MIA,CHI
+2025-04-09,New Orleans Pelicans,,Milwaukee Bucks,,NOP,MIL
+2025-04-09,Portland Trail Blazers,,Utah Jazz,,POR,UTA
+2025-04-09,San Antonio Spurs,,Golden State Warriors,,SAS,GSW
+2025-04-09,Oklahoma City Thunder,,Phoenix Suns,,OKC,PHO
+2025-04-09,Denver Nuggets,,Sacramento Kings,,DEN,SAC
+2025-04-09,Houston Rockets,,Los Angeles Clippers,,HOU,LAC
+2025-04-10,New York Knicks,,Detroit Pistons,,NYK,DET
+2025-04-10,Cleveland Cavaliers,,Indiana Pacers,,CLE,IND
+2025-04-10,Atlanta Hawks,,Brooklyn Nets,,ATL,BRK
+2025-04-10,Minnesota Timberwolves,,Memphis Grizzlies,,MIN,MEM
+2025-04-11,Milwaukee Bucks,,Detroit Pistons,,MIL,DET
+2025-04-11,Orlando Magic,,Indiana Pacers,,ORL,IND
+2025-04-11,Atlanta Hawks,,Philadelphia 76ers,,ATL,PHI
+2025-04-11,Charlotte Hornets,,Boston Celtics,,CHO,BOS
+2025-04-11,Cleveland Cavaliers,,New York Knicks,,CLE,NYK
+2025-04-11,Washington Wizards,,Chicago Bulls,,WAS,CHI
+2025-04-11,Miami Heat,,New Orleans Pelicans,,MIA,NOP
+2025-04-11,Toronto Raptors,,Dallas Mavericks,,TOR,DAL
+2025-04-11,Memphis Grizzlies,,Denver Nuggets,,MEM,DEN
+2025-04-11,Brooklyn Nets,,Minnesota Timberwolves,,BRK,MIN
+2025-04-11,Oklahoma City Thunder,,Utah Jazz,,OKC,UTA
+2025-04-11,San Antonio Spurs,,Phoenix Suns,,SAS,PHO
+2025-04-11,Golden State Warriors,,Portland Trail Blazers,,GSW,POR
+2025-04-11,Los Angeles Clippers,,Sacramento Kings,,LAC,SAC
+2025-04-11,Houston Rockets,,Los Angeles Lakers,,HOU,LAL
+2025-04-13,Orlando Magic,,Atlanta Hawks,,ORL,ATL
+2025-04-13,Charlotte Hornets,,Boston Celtics,,CHO,BOS
+2025-04-13,New York Knicks,,Brooklyn Nets,,NYK,BRK
+2025-04-13,Indiana Pacers,,Cleveland Cavaliers,,IND,CLE
+2025-04-13,Washington Wizards,,Miami Heat,,WAS,MIA
+2025-04-13,Detroit Pistons,,Milwaukee Bucks,,DET,MIL
+2025-04-13,Chicago Bulls,,Philadelphia 76ers,,CHI,PHI
+2025-04-13,Los Angeles Clippers,,Golden State Warriors,,LAC,GSW
+2025-04-13,Denver Nuggets,,Houston Rockets,,DEN,HOU
+2025-04-13,Dallas Mavericks,,Memphis Grizzlies,,DAL,MEM
+2025-04-13,Utah Jazz,,Minnesota Timberwolves,,UTA,MIN
+2025-04-13,Oklahoma City Thunder,,New Orleans Pelicans,,OKC,NOP
+2025-04-13,Los Angeles Lakers,,Portland Trail Blazers,,LAL,POR
+2025-04-13,Phoenix Suns,,Sacramento Kings,,PHO,SAC
+2025-04-13,Toronto Raptors,,San Antonio Spurs,,TOR,SAS

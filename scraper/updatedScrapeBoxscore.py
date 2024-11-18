@@ -5,7 +5,7 @@ import os
 from basketball_reference_scraper.box_scores import get_box_scores
 from pymongo import MongoClient
 from dotenv import load_dotenv
-from datetime import datetime
+from datetime import datetime,date,timedelta
 from typing import Dict, List, Optional
 import logging
 
@@ -25,6 +25,7 @@ class BoxScoreScraper:
         
         # Load environment variables and initialize MongoDB
         self._setup_mongodb(env_path)
+        print(env_path)
         
         # Load schedule data
         self.schedule_df = self._load_schedule(schedule_path)
@@ -84,10 +85,15 @@ class BoxScoreScraper:
             "scraped_at": datetime.now().isoformat()
         }
     
-    def scrape_and_store(self, start_idx: int = 0, end_idx: Optional[int] = None) -> None:
+    def scrape_and_store(self, start_idx: int = 0, end_idx: Optional[int] = None,date: Optional[str] = None) -> None:
         """Main method to scrape and store box scores"""
         counter = 0
-        df_slice = self.schedule_df.iloc[start_idx:end_idx] if end_idx else self.schedule_df.iloc[start_idx:]
+        if date:
+            df_slice = self.schedule_df[self.schedule_df["DATE"] == date]
+        elif end_idx:
+            df_slice = self.schedule_df.iloc[start_idx:end_idx] 
+        else:
+            df_slice =self.schedule_df.iloc[start_idx:]
         
         for index, row in df_slice.iterrows():
             date = row["DATE"]
@@ -124,13 +130,13 @@ class BoxScoreScraper:
 
 if __name__ == "__main__":
     scraper = BoxScoreScraper(
-        schedule_path="scraper/nba_schedule_2024.csv",
-        env_path="server/config.env"
+        schedule_path="scraper/nba_schedule_2025.csv",
+        env_path="api/config.env"
     )
     
     try:
         # Scrape all games
-        scraper.scrape_and_store()
+        scraper.scrape_and_store(date= (date.today()-timedelta(days=1)))
         
         # Optionally export to JSON
         # scraper.export_to_json("box_scores.json")

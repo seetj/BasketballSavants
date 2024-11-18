@@ -22,7 +22,7 @@ export default function Graph() {
   const fetchlast10 = async () => {
     if (!selectedPlayer) return;
     const response = await fetch(
-      `http://localhost:5050/stats/last10games/${selectedPlayer.value}/`
+      `https://basketball-savants-api.vercel.app/stats/last10games/${selectedPlayer.value}/`
     );
     if (!response.ok) {
       const message = `An error occurred: ${response.statusText}`;
